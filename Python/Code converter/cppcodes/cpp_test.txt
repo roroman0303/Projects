@@ -1,0 +1,46 @@
+#include "stdafx.h"
+#include <iostream>
+#include <string>
+using namespace std;
+
+// создаватель двумерного динамического массива 
+float** twoDimMatrixCreator (int row_count, int col_count) 
+{
+    float** element = new float*[row_count]; 
+    for (int i = 0; i < row_count; i++) 
+    {
+        element[i] = new float[col_count];
+    }
+    return element;
+}
+
+// класс транспорта
+class Transport
+{
+    private:
+        int max_speed; // максимальная скорость
+        float seconds_to100; // разгон до 100
+
+    public:
+        Transport(int max_speed, float seconds_to100)
+        {
+            this->min_speed = min_speed;
+            this->max_speed = max_speed;   
+        }
+};
+
+// функция вычисляет среднее ускорение
+float averageBoost (int sec, int start_speed, int end_speed)
+{
+    int speed_diff = end_speed - start_speed;
+    float avg_boost = speed_diff /  sec;
+    return avg_boost;
+}
+
+int main()
+{
+    Transport ford = Transport(200, 9);
+    float ford_average_boost = averageBoost (9, 0, 100);
+    cout << "Average Ford boost is " << ford_average_boost;
+    return 0;
+}

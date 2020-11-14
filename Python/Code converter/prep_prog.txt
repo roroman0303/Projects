@@ -1,0 +1,44 @@
+???Comment0
+???Comment1
+???Comment2
+#include <stdio.h>
+#include <conio.h>
+using namespace std;
+
+int main()
+{
+    float x[10];
+    float max, min;
+
+    for (int i=0; i < 10 ; i++)
+    {
+        cout<< ???Str0;
+        cin>>x[i];
+    }
+
+???Comment3
+    max=x[0];
+    min=x[0];
+    for(int i=1; i < 10 ; i++)
+    {
+        if (x[i]>max)
+        {
+            max = x[i];
+        }
+        if (x[i]<min)
+        {
+            min=x[i];
+        }
+    }
+???Comment4
+    x[0] = max+min;
+???Comment5
+    cout<<???Str1<<max;
+    cout<<???Str2<<min;
+
+    for(int i=0; i < 10 ; i++)
+    {
+        cout<<???Str3<<x[i];
+    }
+    return 0;
+}

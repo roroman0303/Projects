@@ -1,0 +1,44 @@
+???Comment0      un
+???Comment1      un
+???Comment2      un
+#include <stdio.h>      library
+#include <conio.h>      library
+using namespace std;      un
+      un
+int main()      function
+{      un
+    float x[10];      listdeclaration
+    float max, min;      declaration
+      un
+    for (int i=0; i < 10 ; i++)      for
+    {      un
+        cout<< ???Str0;      cout
+        cin>>x[i];      cin
+    }      un
+      un
+???Comment3      un
+    max=x[0];      assign
+    min=x[0];      assign
+    for(int i=1; i < 10 ; i++)      for
+    {      un
+        if (x[i]>max)      if
+        {      un
+            max = x[i];      assign
+        }      un
+        if (x[i]<min)      if
+        {      un
+            min=x[i];      assign
+        }      un
+    }      un
+???Comment4      un
+    x[0] = max+min;      assign
+???Comment5      un
+    cout<<???Str1<<max;      cout
+    cout<<???Str2<<min;      cout
+      un
+    for(int i=0; i < 10 ; i++)      for
+    {      un
+        cout<<???Str3<<x[i];      cout
+    }      un
+    return 0;      return
+}

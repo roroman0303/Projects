@@ -1,0 +1,32 @@
+ apricot - абрикос 
+ razor - бритва 
+ veranda - веранда 
+ guitar - гитара 
+ firewood - дрова 
+ bishop - епископ 
+ hedgehog - Єж 
+ complaint - жалоба 
+ tooth - зуб 
+ silt - ил 
+ scream - крик 
+ cry - крик 
+ shout - крик 
+ pawnshop - ломбард 
+ fashion - мода , стиль 
+ target - мишень , цель 
+ scale - масштаб , чешу€ 
+ nail - ноготь 
+ opera - опера 
+ pillow - подушка 
+ recursion - рекурси€ 
+ dictionary - словарь 
+ style - стиль 
+ truffle - трюфель 
+ coal - уголь 
+ filter - фильтр 
+ snore - храп 
+ shorts - шорты 
+ shield - щит 
+ ellipse - эллипс 
+ yule - юла 
+ brightness - €ркость 

@@ -1,0 +1,28 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    setlocale(0, "");
+    std::cin>> a>>b;
+    int i = 0; // инициализируем счетчик цикла.
+    int sum = 0; // инициализируем счетчик суммы.
+    double gym[4] = {1,2,3,4};
+    if (i == 0)
+    {
+        int a = 0;
+    }
+    else
+    {
+        int b = 0;
+    }
+    while (i < 1000)
+    {
+        i++;
+        a--;
+        sum += i;
+    }
+    cout << "Сумма чисел от 1 до 1000 = " << sum; 
+    return 0;
+
+}

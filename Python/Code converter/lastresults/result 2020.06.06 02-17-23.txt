@@ -1,0 +1,113 @@
+#Было убрано объявление библиотеки:
+# #include "stdafx.h"
+
+#Было убрано объявление библиотеки:
+# #include <iostream>
+#Ввод-вывод в Python реализуется функциями input() и print().
+
+#Было убрано объявление библиотеки:
+# #include <string>
+#В Python строки доступны по умолчанию.
+
+#Строка была убрана:
+# using namespace std;
+
+#Был обнаружен ссылочный тип данных:
+# float** twoDimMatrixCreator (int row_count, int col_count) 
+#В Python ссылочные типы данных не предусмотрены
+
+#Был обнаружен ссылочный тип данных:
+#     float** element = new float*[row_count]; 
+#В Python ссылочные типы данных не предусмотрены
+
+#Был преобразован цикл:
+#     for (int i = 0; i < row_count; i++) 
+#Цикл со счетчиком i от 0 до row_count
+    for i in range(0, row_count):
+
+#Не было преобразовано:
+#         element[i] = new float[col_count];
+#Внимание - выделение динамической памяти!
+#В Python нет механизма выделения дин. памяти.
+
+#Был преобразован оператор возврата:
+#     return element;
+    return element
+
+#Было преобразовано объявление класса:
+# class Transport
+#Класс Transport
+class Transport:
+
+#Оператор управления доступом был убран:
+#     private:
+#В Python механизм инкапсуляции не предусмотрен
+
+#Было преобразовано объявление переменных:
+#         int max_speed; 
+#В Python присутствует динамическая типизация
+#Нет необходимости объявлять переменные заранее
+
+#Было преобразовано объявление переменных:
+#         float seconds_to100; 
+#В Python присутствует динамическая типизация
+#Нет необходимости объявлять переменные заранее
+
+#Оператор управления доступом был убран:
+#     public:
+#В Python механизм инкапсуляции не предусмотрен
+
+#Был преобразован конструктор класса:
+#         Transport (int max_speed, float seconds_to100)
+#Конструктор класса Transport
+        def __init__(self,  max_speed,  seconds_to100)
+
+#Была преобразована операция присвоения:
+#             this->min_speed = min_speed;
+#Объекту this->min_speed было присвоено значение min_speed
+            self.min_speed = min_speed
+
+#Была преобразована операция присвоения:
+#             this->max_speed = max_speed;   
+#Объекту this->max_speed было присвоено значение max_speed
+            self.max_speed = max_speed   
+
+#Было преобразовано объявление функции:
+# float averageBoost (int sec, int start_speed, int end_speed)
+#Функция averageBoost с возвращаемым значением типа float
+def averageBoost( sec,  start_speed,  end_speed):
+
+#Было преобразовано объявление переменных:
+#     int speed_diff = end_speed - start_speed;
+#В Python присутствует динамическая типизация
+    speed_diff = end_speed - start_speed
+
+#Было преобразовано объявление переменных:
+#     float avg_boost = speed_diff /  sec;
+#В Python присутствует динамическая типизация
+    avg_boost = speed_diff /  sec
+
+#Был преобразован оператор возврата:
+#     return avg_boost;
+    return avg_boost
+
+#Было преобразовано объявление функции:
+# int main()
+#Начало главной исполняемой программы
+main()
+def main():
+
+#Было преобразовано объявление переменных:
+#     float ford_average_boost = averageBoost (9, 0, 100);
+#В Python присутствует динамическая типизация
+    ford_average_boost = averageBoost (9, 0, 100)
+
+#Был преобразован консольный вывод:
+#     cout << "Average Ford boost is " << ford_average_boost;
+    print( "Average Ford boost is " + ford_average_boost)
+
+#Был преобразован оператор возврата:
+#     return 0;
+#Конец исполняемой программы
+    return 0
+

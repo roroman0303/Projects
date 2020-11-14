@@ -1,0 +1,87 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+// создаватель двумерного дин. массива 
+float twoDimMatrixCreator (int row_count, int col_count) 
+{
+    float** element = new float*[row_count]; 
+    for (int i = 0; i < row_count; i++) 
+    {
+        element[i] = new float[col_count];
+    }
+    return element;
+}
+// класс матриц
+class Matrix : public human
+{
+    private:
+        // кол-во сток и столбцов
+        int row_count;
+        int col_count;
+        
+    public:
+        float** element;// пока пустой указатель(вскоре в конструкторе станет массивом)
+        Matrix(int row_count, int col_count)
+        {
+            this->row_count = row_count;
+            this->col_count = col_count;
+            this->element = twoDimMatrixCreator(row_count, col_count);// <- здесь   
+        }
+        int getRow_count () 
+        {
+            return this->row_count;
+        }
+        int getCol_count () 
+        {
+            return this->col_count;
+        }
+        //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+        // friend istream& operator>> (istream &Mcin, Matrix &matrix);
+        // friend ostream& operator<< (ostream &Mcout, Matrix &matrix);
+        // friend Matrix operator + (Matrix &matrix1, Matrix &matrix2);
+        // friend Matrix operator - (Matrix &matrix1, Matrix &matrix2);
+        // friend Matrix operator * (Matrix &matrix1, Matrix &matrix2);
+        // если надо через френды, то надо в каждой перегружающей функции просто помен€ть getы на this->
+        // и раскомментировать сверху френды
+};
+
+int main()
+{
+    double a, b, c; // объ€вление
+    Matrix matrix1 = Matrix(2,3);
+    Matrix matrix2 = Matrix(2,3);
+    Matrix matrix3 = Matrix(3,2);
+    //каждый раз вбивать cin не удобно поэтому дальше ввожу кодом 
+    //запустите и можете увидеть что они из себ€ представл€ют
+    int counter = 1;
+    cin >> a >> b >> c;
+    for (int i = 0; i < matrix1.getRow_count(); i++)
+    { 
+        for (int j = 0; j < matrix1.getCol_count(); j++) 
+        { 
+            matrix1.element[i][j] = counter++; // перва€ по пор€дку с 1 до 6 (2 на 3)
+        }
+    }
+    for (int i = 0; i < matrix2.getRow_count(); i++) 
+        for (int j = 0; j < matrix2.getCol_count(); j++) 
+        { 
+            matrix2.element[i][j] = --counter; // втора€ по пор€дку с 6 до 1 (2 на 3)
+        }
+    }
+    for (int i = 0; i < matrix3.getRow_count(); i++) 
+    {
+        for (int j = 0; j < matrix3.getCol_count(); j++) 
+        { 
+            matrix3.element[i][j] = 1; // треть€ - единички везде (3 на 2)
+        }
+    }
+    cout << matrix1;
+    cout << matrix2; // вывод
+    cout << matrix3;
+    cout << "mystr test";
+    cout << "my STR testing"
+    return 0;
+    /*----*/
+    
+}
