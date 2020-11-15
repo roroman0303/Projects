@@ -1,0 +1,2 @@
+E:\Projects\C++\Replace in strings\Replace in strings\Debug\Replace in strings.exe
+E:\Projects\C++\Replace in strings\Replace in strings\Debug\Replace in strings.pdb
