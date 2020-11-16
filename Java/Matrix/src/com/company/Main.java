@@ -16,5 +16,9 @@ public class Main {
 
         Matrix fifthm = Matrix.subtrack(firstm, secondm);
         fifthm.print();// вычитание
+
+        SquareMatrix firsts = new SquareMatrix(2, true);
+        firsts.print();
+        System.out.println(SquareMatrix.determinant(firsts));
     }
 }

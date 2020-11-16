@@ -7,6 +7,8 @@ public class Matrix {
     private int col_count = 1;
     int element[][];
 
+    public Matrix () {}
+
     public Matrix (int rows, int cols) {
         row_count = rows;
         col_count = cols;
