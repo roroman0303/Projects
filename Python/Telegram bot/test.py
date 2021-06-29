@@ -1,0 +1,2 @@
+uhuhu = 'lala'
+int(uhuhu)
