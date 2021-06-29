@@ -54,7 +54,7 @@ def answer_to_text(message):
         bot.send_message(message.from_user.id, 'Я тебя не понимаю :(')
 
 # ===========================================
-with open('telegram_bot_key.txt', 'r') as file:
+with open('E:/Projects/Python/Telegram bot/telegram_bot_keys.txt', 'r') as file:
     lines = file.read().splitlines()
     token = lines[0]
 keyboard = telebot.types.ReplyKeyboardMarkup
