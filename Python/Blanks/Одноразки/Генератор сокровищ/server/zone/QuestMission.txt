@@ -1,0 +1,463 @@
+
+quest {
+	quest_info (17401, "Pirate's treasure")
+}
+quest {
+	quest_info (17402, "Pirate's treasure")
+}
+quest {
+	quest_info (17403, "Pirate's treasure")
+}
+quest {
+	quest_info (17404, "Pirate's treasure")
+}
+quest {
+	quest_info (17405, "Pirate's treasure")
+	time(120)
+}
+quest {
+	quest_info (17406, "Pirate's treasure")
+}
+quest {
+	quest_info (17407, "Pirate's treasure")
+	time(120)
+}
+quest {
+	quest_info (17408, "Pirate's treasure")
+	hunt ("E_ZOMBIE_CAPTAIN", 1)
+}
+quest {
+	quest_info (17409, "Pirate's treasure")
+	time(120)
+}
+quest {
+	quest_info (17410, "Pirate's treasure")
+}
+quest {
+	quest_info (17411, "Pirate's treasure")
+}
+quest {
+	quest_info (17412, "Pirate's treasure")
+	time(120)
+}
+quest {
+	quest_info (17413, "Pirate's treasure")
+}
+quest {
+	quest_info (17414, "Pirate's treasure")
+}
+quest {
+	quest_info (17415, "Pirate's treasure")
+}
+quest {
+	quest_info (17416, "Pirate's trader quest")
+	hunt ("KARAKASA", 500)
+}
+quest {
+	quest_info (17417, "Pirate's trader quest")
+	hunt ("SMOKIE", 500)
+}
+quest {
+	quest_info (17418, "Pirate's trader quest")
+	hunt ("MIMING", 500)
+}
+quest {
+	quest_info (17419, "Pirate's trader quest")
+	hunt ("LITTLE_FATUM", 500)
+}
+quest {
+	quest_info (17420, "Pirate's trader quest")
+	hunt ("TOUCAN", 500)
+}
+quest {
+	quest_info (17421, "Pirate's trader quest")
+	hunt ("GREEN_IGUANA", 500)
+}
+quest {
+	quest_info (17422, "Pirate's trader quest")
+	hunt ("FUR_SEAL", 500)
+}
+quest {
+	quest_info (17423, "Pirate's trader quest")
+	hunt ("ALLIGATOR", 500)
+}
+quest {
+	quest_info (17424, "Pirate's trader quest")
+	hunt ("SEE_OTTER", 500)
+}
+quest {
+	quest_info (17425, "Pirate's trader quest")
+	hunt ("GOLEM", 500)
+}
+quest {
+	quest_info (17426, "Pirate's trader quest")
+	hunt ("RAGGLER", 500)
+}
+quest {
+	quest_info (17427, "Pirate's trader quest")
+	hunt ("DENIRO", 500)
+}
+quest {
+	quest_info (17428, "Pirate's trader quest")
+	hunt ("METALLER", 500)
+}
+quest {
+	quest_info (17429, "Pirate's trader quest")
+	hunt ("MENBLATT", 500)
+}
+quest {
+	quest_info (17430, "Pirate's trader quest")
+	hunt ("TEDDY_BEAR", 500)
+}
+quest {
+	quest_info (17431, "Pirate's trader quest")
+	hunt ("VENOMOUS", 500)
+}
+quest {
+	quest_info (17432, "Pirate's trader quest")
+	hunt ("NOXIOUS", 500)
+}
+quest {
+	quest_info (17433, "Pirate's trader quest")
+	hunt ("MOLE", 500)
+}
+quest {
+	quest_info (17434, "Pirate's trader quest")
+	hunt ("METALING", 500)
+}
+quest {
+	quest_info (17435, "Pirate's trader quest")
+	hunt ("METALING", 500)
+}
+quest {
+	quest_info (17436, "Pirate's trader quest")
+	hunt ("PORCELLIO", 500)
+}
+quest {
+	quest_info (17437, "Pirate's trader quest")
+	hunt ("CHONCHON", 500)
+}
+quest {
+	quest_info (17438, "Pirate's trader quest")
+	hunt ("RODA_FROG", 500)
+}
+quest {
+	quest_info (17439, "Pirate's trader quest")
+	hunt ("COCO", 500)
+}
+quest {
+	quest_info (17440, "Pirate's trader quest")
+	hunt ("ORC_LADY", 500)
+}
+quest {
+	quest_info (17441, "Pirate's trader quest")
+	hunt ("MANDRAGORA", 500)
+}
+quest {
+	quest_info (17442, "Pirate's trader quest")
+	hunt ("CREAMY", 500)
+}
+quest {
+	quest_info (17443, "Pirate's trader quest")
+	hunt ("PETIT", 500)
+}
+quest {
+	quest_info (17444, "Pirate's trader quest")
+	hunt ("PUPA", 500)
+}
+quest {
+	quest_info (17445, "Pirate's trader quest")
+	hunt ("PETIT_", 500)
+}
+quest {
+	quest_info (17446, "Pirate's trader quest")
+	hunt ("AMBERNITE", 500)
+}
+quest {
+	quest_info (17447, "Pirate's trader quest")
+	hunt ("ORK_WARRIOR", 500)
+}
+quest {
+	quest_info (17448, "Pirate's trader quest")
+	hunt ("GOBLIN_1", 500)
+}
+quest {
+	quest_info (17449, "Pirate's trader quest")
+	hunt ("RICE_CAKE_BOY", 500)
+}
+quest {
+	quest_info (17450, "Pirate's trader quest")
+	hunt ("NOVUS", 500)
+}
+quest {
+	quest_info (17451, "Pirate's trader quest")
+	hunt ("NOVUS_", 500)
+}
+quest {
+	quest_info (17452, "Pirate's trader quest")
+	hunt ("SHELLFISH", 500)
+}
+quest {
+	quest_info (17453, "Pirate's trader quest")
+	hunt ("RAFFLESIA", 500)
+}
+quest {
+	quest_info (17454, "Pirate's trader quest")
+	hunt ("STEM_WORM", 500)
+}
+quest {
+	quest_info (17455, "Pirate's trader quest")
+	hunt ("BREEZE", 500)
+}
+quest {
+	quest_info (17456, "Pirate's trader quest")
+	hunt ("TIYANAK", 500)
+}
+quest {
+	quest_info (17457, "Pirate's trader quest")
+	hunt ("BUNGISNGIS", 500)
+}
+quest {
+	quest_info (17458, "Pirate's trader quest")
+	hunt ("CARAMEL", 500)
+}
+quest {
+	quest_info (17459, "Pirate's trader quest")
+	hunt ("HORN", 500)
+}
+quest {
+	quest_info (17460, "Pirate's trader quest")
+	hunt ("SIDE_WINDER", 500)
+}
+quest {
+	quest_info (17461, "Pirate's trader quest")
+	hunt ("DRILLER", 500)
+}
+quest {
+	quest_info (17462, "Pirate's trader quest")
+	hunt ("ARGIOPE", 500)
+}
+quest {
+	quest_info (17463, "Pirate's trader quest")
+	hunt ("POISON_SPORE", 500)
+}
+quest {
+	quest_info (17464, "Pirate's trader quest")
+	hunt ("SAVAGE", 500)
+}
+quest {
+	quest_info (17465, "Pirate's trader quest")
+	hunt ("KIND_OF_BEETLE", 500)
+}
+quest {
+	quest_info (17466, "Pirate's trader quest")
+	hunt ("SAVAGE_BABE", 500)
+}
+quest {
+	quest_info (17467, "Pirate's trader quest")
+	hunt ("ARGOS", 500)
+}
+quest {
+	quest_info (17468, "Pirate's trader quest")
+	hunt ("ARGIOPE", 500)
+}
+quest {
+	quest_info (17469, "Pirate's trader quest")
+	hunt ("DUSTINESS", 500)
+}
+quest {
+	quest_info (17470, "Pirate's trader quest")
+	hunt ("PECOPECO", 500)
+}
+quest {
+	quest_info (17471, "Pirate's trader quest")
+	hunt ("MUKA", 500)
+}
+quest {
+	quest_info (17472, "Pirate's trader quest")
+	hunt ("DROPS", 500)
+}
+quest {
+	quest_info (17473, "Pirate's trader quest")
+	hunt ("DESERT_WOLF_B", 500)
+}
+quest {
+	quest_info (17474, "Pirate's trader quest")
+	hunt ("PICKY", 500)
+}
+quest {
+	quest_info (17475, "Pirate's trader quest")
+	hunt ("SCORPION", 500)
+}
+quest {
+	quest_info (17476, "Pirate's trader quest")
+	hunt ("WILOW", 500)
+}
+quest {
+	quest_info (17477, "Pirate's trader quest")
+	hunt ("SNAKE", 500)
+}
+quest {
+	quest_info (17478, "Pirate's trader quest")
+	hunt ("FABRE", 500)
+}
+quest {
+	quest_info (17479, "Pirate's trader quest")
+	hunt ("POPORING", 500)
+}
+quest {
+	quest_info (17480, "Pirate's trader quest")
+	hunt ("BIGFOOT", 500)
+}
+quest {
+	quest_info (17481, "Pirate's trader quest")
+	hunt ("SPORE", 500)
+}
+quest {
+	quest_info (17482, "Pirate's trader quest")
+	hunt ("ELDER_WILOW", 500)
+}
+quest {
+	quest_info (17483, "Pirate's trader quest")
+	hunt ("GREATEST_GENERAL", 500)
+}
+quest {
+	quest_info (17484, "Pirate's trader quest")
+	hunt ("RODA_FROG", 500)
+}
+quest {
+	quest_info (17485, "Pirate's trader quest")
+	hunt ("LUNATIC", 500)
+}
+quest {
+	quest_info (17486, "Pirate's trader quest")
+	hunt ("STAINER", 500)
+}
+quest {
+	quest_info (17487, "Pirate's trader quest")
+	hunt ("YOYO", 500)
+}
+quest {
+	quest_info (17488, "Pirate's trader quest")
+	hunt ("AMBERNITE", 500)
+}
+quest {
+	quest_info (17489, "Pirate's trader quest")
+	hunt ("HORNET", 500)
+}
+quest {
+	quest_info (17490, "Pirate's trader quest")
+	hunt ("FABRE", 500)
+}
+quest {
+	quest_info (17491, "Pirate's trader quest")
+	hunt ("ROCKER", 500)
+}
+quest {
+	quest_info (17492, "Pirate's trader quest")
+	hunt ("PORING", 500)
+}
+quest {
+	quest_info (17493, "Pirate's trader quest")
+	hunt ("MAGNOLIA", 500)
+}
+quest {
+	quest_info (17494, "Pirate's trader quest")
+	hunt ("ELDER_WILOW", 500)
+}
+quest {
+	quest_info (17495, "Pirate's trader quest")
+	hunt ("GOBLIN_5", 500)
+}
+quest {
+	quest_info (17496, "Pirate's trader quest")
+	hunt ("DESERT_WOLF", 500)
+}
+quest {
+	quest_info (17497, "Pirate's trader quest")
+	hunt ("HILL_WIND_1", 500)
+}
+quest {
+	quest_info (17498, "Pirate's trader quest")
+	hunt ("HILL_WIND_1", 500)
+}
+quest {
+	quest_info (17499, "Pirate's trader quest")
+	hunt ("KOBOLD_1", 500)
+}
+quest {
+	quest_info (17500, "Pirate's trader quest")
+	hunt ("KOBOLD_ARCHER", 500)
+}
+quest {
+	quest_info (17501, "Pirate's trader quest")
+	hunt ("ANACONDAQ", 500)
+}
+quest {
+	quest_info (17502, "Pirate's trader quest")
+	hunt ("ROWEEN", 500)
+}
+quest {
+	quest_info (17503, "Pirate's trader quest")
+	hunt ("DRYAD", 500)
+}
+quest {
+	quest_info (17504, "Pirate's trader quest")
+	hunt ("WOOTAN_FIGHTER", 500)
+}
+quest {
+	quest_info (17505, "Pirate's trader quest")
+	hunt ("PARASITE", 500)
+}
+quest {
+	quest_info (17506, "Pirate's trader quest")
+	hunt ("WILD_ROSE", 500)
+}
+quest {
+	quest_info (17507, "Pirate's trader quest")
+	hunt ("GALION", 500)
+}
+quest {
+	quest_info (17508, "Pirate's trader quest")
+	hunt ("DROSERA", 500)
+}
+quest {
+	quest_info (17509, "Pirate's trader quest")
+	hunt ("MAGMARING", 500)
+}
+quest {
+	quest_info (17510, "Pirate's trader quest")
+	hunt ("MUSCIPULAR", 500)
+}
+quest {
+	quest_info (17511, "Pirate's trader quest")
+	hunt ("STAPO", 500)
+}
+quest {
+	quest_info (17512, "Pirate's trader quest")
+	hunt ("GEOGRAPHER", 500)
+}
+quest {
+	quest_info (17513, "Pirate's trader quest")
+	hunt ("SLEEPER", 500)
+}
+quest {
+	quest_info (17514, "Pirate's trader quest")
+	hunt ("HARPY", 500)
+}
+quest {
+	quest_info (17515, "Pirate's trader quest")
+	hunt ("HARPY", 500)
+}
+quest {
+	quest_info (17516, "Pirate's trader quest")
+	hunt ("SLEEPER", 500)
+}
+quest {
+	quest_info (17517, "Pirate's trader quest")
+	hunt ("GOAT", 500)
+}
+quest {
+	quest_info (17518, "Pirate's trader quest")
+	hunt ("GEOGRAPHER", 500)
+}

@@ -1,0 +1,32 @@
+2_BOARD2	Необычный знак#17_sign01	malangdo	214 106
+2_BOARD2	Необычный знак#17_sign02	malangdo	146 129
+4_CAT_3COLOR	Справочная#17_info01	malangdo	214 95
+4_CAT_3COLOR	Справочная#17_info02	malangdo	135 118
+4_CAT_ADV1	Регистрация участников#17_list01	malangdo	140 165
+4_CAT_MERMASTER	Председатель фестиваля#17_add01	malangdo	133 170
+CLEAR_NPC	Кипящий котёл#17_add01	malangdo	165 131
+4_CAT_CHEF	Орчо#17_add01	malangdo	165 133
+4_CAT_SAILOR1	Матрос#17_add01	malangdo	183 221
+WATERMELON	Спелый арбуз#17_wamel	malangdo	198 217
+WATERMELON	Сочный арбуз#17_wamel	malangdo	199 216
+WATERMELON	Обычный арбуз#17_wamel	malangdo	199 215
+WATERMELON	Дикий арбуз#17_wamel	malangdo	195 235
+4_CAT_SAILOR2	Рами#17_add01	malangdo	196 217
+4_F_HUGIRL	Наоби#17_add01	malangdo	138 235
+4_F_04	Мама Наоби#17_add01	malangdo	136 235
+4_CAT_SAILOR3	Папа Наоби#17_add01	malangdo	135 236
+4_M_MERCAT2	Рыбак#17_add01	malangdo	136 237
+4_M_MERCAT2	Менеджер купонов#17_add01	malangdo	141 155
+2_MONEMUS	Распределитель призов#17_add01	malangdo	139 152
+4_M_MERCAT1	Аренда оборудования#17_add01	malangdo	141 158
+4_CAT_3COLOR	Участник фестиваля#17_add01	prontera	164 173
+4_CAT_3COLOR	Участник фестиваля#17_add02	payon	193 108
+4_CAT_3COLOR	Участник фестиваля#17_add03	aldebaran	143 115
+4_CAT_3COLOR	Участник фестиваля#17_add04	geffen	129 57
+4_CAT_3COLOR	Участник фестиваля#17_add05	morocc	168 87
+4_CAT_3COLOR	Участник фестиваля#17_add06	moc_para01	40 20
+4_F_04	nyail_pig_switcher#1	lasa_sea	1 2
+4_F_04	nyail_pig_switcher#2	lasa_sea	1 4
+4_F_04	nyail_pig_switcher#3	lasa_sea	1 6
+4_F_04	nyail_pig_switcher#4	lasa_sea	1 8
+4_F_04	nyail_pig_switcher#5	lasa_sea	1 10

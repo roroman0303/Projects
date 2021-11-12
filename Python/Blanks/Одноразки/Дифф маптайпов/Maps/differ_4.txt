@@ -1,0 +1,16 @@
+Добавлены
+alde_alche.gat
+in_hunter.gat
+job3_gen01.gat
+monk_in.gat
+Удалены
+cmd_fild05.gat
+e_niflheim.gat
+gef_dun03.gat
+gef_fild12.gat
+gef_fild14.gat
+ice_dun04.gat
+moc_fild22b.gat
+pay_fild05.gat
+pay_fild11.gat
+ra_fild02.gat

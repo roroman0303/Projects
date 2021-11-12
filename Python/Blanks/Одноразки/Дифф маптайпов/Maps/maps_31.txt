@@ -1,0 +1,12 @@
+------------[new]-------------
+iz_dun00t.gat
+iz_dun01t.gat
+iz_dun02t.gat
+iz_dun03t.gat
+iz_dun04t.gat
+-----------[old]------------
+iz_dun00t.gat
+iz_dun01t.gat
+iz_dun02t.gat
+iz_dun03t.gat
+iz_dun04t.gat

@@ -1,0 +1,12 @@
+Добавлены
+Удалены
+ama_dun01.gat
+egef_fild02.gat
+kh_dun01.gat
+tha_t07.gat
+tha_t08.gat
+tha_t09.gat
+tha_t10.gat
+tha_t11.gat
+tha_t12.gat
+thana_step.gat

@@ -1,2 +1,3 @@
-uhuhu = 'lala'
-int(uhuhu)
+import django
+a = django.get_version()
+print(django.get_version())

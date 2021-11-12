@@ -1,0 +1,12 @@
+------------[new]-------------
+iz_int.gat
+iz_int01.gat
+iz_int02.gat
+iz_int03.gat
+iz_int04.gat
+-----------[old]------------
+iz_int.gat
+iz_int01.gat
+iz_int02.gat
+iz_int03.gat
+iz_int04.gat

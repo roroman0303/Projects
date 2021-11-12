@@ -1,0 +1,49 @@
+npc	"prontera"	"Фирун#2021hw_prt"	4_LUDE	133	124	6	0	0
+npc	"prontera"	"Хорро#2021hw_prt"	4_LUDE	131	121	7	0	0
+npc	"prontera"	"Фобос#2021hw_prt"	4_LUDE	136	120	8	0	0
+npc	"prontera"	"Брайт#2021hw_prt"	4_LUDE	134	122	3	0	0
+npc	"payon"	"Фирун#2021hw_pay"	4_LUDE	188	104	3	0	0
+npc	"payon"	"Хорро#2021hw_pay"	4_LUDE	190	105	3	0	0
+npc	"payon"	"Фобос#2021hw_pay"	4_LUDE	186	106	8	0	0
+npc	"payon"	"Брайт#2021hw_pay"	4_LUDE	192	103	5	5	5
+npc	"morocc"	"Фирун#2021hw_moc"	4_LUDE	168	95	3	0	0
+npc	"morocc"	"Хорро#2021hw_moc"	4_LUDE	170	94	3	0	0
+npc	"morocc"	"Фобос#2021hw_moc"	4_LUDE	168	93	8	0	0
+npc	"morocc"	"Брайт#2021hw_moc"	4_LUDE	170	96	5	5	5
+npc	"niflheim"	"Хорро#2021hw"	4_LUDE	177	242	5	5	5
+npc	"niflheim"	"Фрай#2021hw"	4_LUDE	180	242	3	0	0
+npc	"niflheim"	"Боб#2021hw"	4_LUDE	179	240	3	0	0
+npc	"niflheim"	"Джек#2021hw_j1"	4_JACK_HEAD	184	199	3	0	0
+npc	"niflheim"	"Джек#2021hw_j2"	4_JACK_HEAD	187	190	5	0	0
+npc	"niflheim"	"Джек#2021hw_j3"	4_JACK_HEAD	196	183	3	0	0
+npc	"niflheim"	"Джек#2021hw_j4"	4_JACK_HEAD	203	181	5	0	0
+npc	"niflheim"	"Джек#2021hw_j5"	4_JACK_HEAD	202	194	7	0	0
+npc	"niflheim"	"Джек#2021hw_j6"	4_JACK_HEAD	184	202	183	3	0	0
+npc	"niflheim"	"Джек#2021hw_j7"	4_JACK_HEAD	185	198	5	0	0
+npc	"niflheim"	"Джек#2021hw_j8"	4_JACK_HEAD	197	193	3	0	0
+npc	"niflheim"	"Джек#2021hw_j9"	4_JACK_HEAD	194	193	5	0	0
+npc	"niflheim"	"Джек#2021hw_j10"	4_JACK_HEAD	208	197	7	0	0
+npc	"niflheim"	"Джек#2021hw_j11"	4_JACK_HEAD	189	178	3	0	0
+npc	"niflheim"	"Джек#2021hw_j12"	4_JACK_HEAD	203	191	1	0	0
+npc	"niflheim"	"Джек#2021hw_j13"	4_JACK_HEAD	183	184	1	0	0
+npc	"niflheim"	"Джек#2021hw"	4_JACK_HEAD	172	244	3	0	0
+npc	"niflheim"	"Джек#2021hw"	4_LUDE	167	242	3	0	0
+npc	"niflheim"	"Герон#2021hw"	4_LUDE	166	241	3	0	0
+npc	"niflheim"	"Лунатик#2021hw"	4_LUDE	169	240	5	0	0
+npc	"niflheim"	"Ламия#2021hw"	4_F_NFDEADMGCIAN	43	147	3	0	0
+npc	"nif_fild02"	"Кричащий	Джек#2021hw_ex"	4_JACK	366	247	5	0	0
+npc	"umbala"	"Исследователь#2021hw"	4_LGTSCIENCE	113	287	7	0	0
+npc	"morocc"	"Испуганный	торговец#2021hw"	1_M_SIGNMCNT	154	248	1	0	0
+npc	"alberta"	"Удивлённый	кот#2021hw"	4_CAT_DOWN	45	239	5	0	0
+npc	"alberta"	"Белый	кот#2021hw"	4_CAT	198	50	3	0	0
+npc	"alberta"	"Горсть	пепла#2021hw"	4_SOIL	199	51	1	0	0
+npc	"niflheim"	"Кот	с	черной	гривой#2017hw"	4_SCATLETON	147	199	3	0	0
+npc	"nif_fild02"	"Надгробие#2017hw1"	4_SOIL	131	231	0	0	0
+npc	"nif_fild02"	"Надгробие#2017hw2"	4_SOIL	133	232	0	0	0
+npc	"nif_fild02"	"Надгробие#2017hw3"	4_SOIL	132	229	0	0	0
+npc	"nif_fild02"	"Надгробие#2017hw4"	4_SOIL	137	228	3	0	0
+npc	"niflheim"	"Джек#2017hw_j1"	4_JJAK	176	133	3	0	0
+npc	"niflheim"	"Джек#2017hw_j2"	4_JJAK	185	138	5	5	5
+npc	"niflheim"	"Джек#2017hw_j3"	4_JJAK	204	166	8	5	5
+npc	"niflheim"	"Джек#2017hw_j4"	4_JJAK	164	189	1	5	5
+npc	"niflheim"	"Костигр#2017hw"	SKELION	138	199	5	0	0

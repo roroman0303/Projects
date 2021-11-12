@@ -1,0 +1,7 @@
+Добавлены
+alde_gld.gat
+aru_gld.gat
+pay_gld.gat
+prt_gld.gat
+sch_gld.gat
+Удалены

@@ -1,0 +1,12 @@
+------------[new]-------------
+dicastes01.gat
+dicastes02.gat
+manuk.gat
+mid_camp.gat
+splendide.gat
+-----------[old]------------
+dicastes01.gat
+dicastes02.gat
+manuk.gat
+mid_camp.gat
+splendide.gat

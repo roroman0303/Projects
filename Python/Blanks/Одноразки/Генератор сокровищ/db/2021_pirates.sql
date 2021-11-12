@@ -1,0 +1,6 @@
+INSERT into [script].[dbo].[monparameter] VALUES ('E_ZOMBIE_PIRATE', 1, 10, 4, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 10, 12, 400, 1672, 480, 672, 29, 1, 0, 1, 0, 31)
+INSERT into [script].[dbo].[monparameter] VALUES ('E_ZOMBIE_CAPTAIN', 1, 10, 8, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 10, 12, 400, 1672, 480, 672, 29, 1, 0, 1, 0, 31)
+INSERT into [script].[dbo].[monparameter] VALUES ('E_ZOMBIE_TREASURE', 1, 10, 2, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 10, 12, 200, 1864, 540, 864, 29, 1, 0, 1, 0, 31)
+INSERT into [script].[dbo].[monmakingitem3] VALUES ('E_ZOMBIE_PIRATE', 'Dogly_Bottle_Z', 5000, 'G0', 'Gold_Chocoin', 1000, 'G0', 'Apple', 0, 'G0', 'Apple', 0, 'G0', 'Apple', 0, 'G0', 'Apple', 0, 'G0', 'Apple', 0, 'G0', 'Apple', 0, 'G0')
+INSERT into [script].[dbo].[monmakingitem3] VALUES ('E_ZOMBIE_CAPTAIN', 'Comp_Glass_Of_Illusion', 3000, 'G0', 'Dogly_Bottle_Z', 3000, 'G0', 'Dogly_Bottle_Z', 3000, 'G0', 'Dogly_Bottle_Z', 3000, 'G0', 'Gold_Chocoin', 5000, 'G0', 'Apple', 0, 'G0', 'Apple', 0, 'G0', 'Apple', 0, 'G0')
+INSERT into [script].[dbo].[monmakingitem3] VALUES ('E_ZOMBIE_TREASURE', 'Dogly_Bottle_Z', 3000, 'G0', 'Dogly_Bottle_Z', 3000, 'G0', 'Dogly_Bottle_Z', 3000, 'G0', 'Gold_Chocoin', 1000, 'G0', 'Apple', 0, 'G0', 'Apple', 0, 'G0', 'Apple', 0, 'G0', 'Apple', 0, 'G0')

@@ -1,0 +1,544 @@
+AMON_RA	kRO	Bs_Making_S	1000	Seed_Of_Yggdrasil	3500	Crystal_Jewel__	5500
+	ROP	Yggdrasilberry	5500	Carnium	3500	Crystal_Jewel__	5500
+	ROPEU	Yggdrasilberry	5500	Seed_Of_Yggdrasil	3500	Crystal_Jewel__	5500
+	
+APOCALIPS_H	kRO	Old_Violet_Box	5500	Bs_Making_S	5000	Crystal_Jewel__	2000
+	ROP	Old_Violet_Box	5500	Carnium	5000	Crystal_Jewel__	2000
+	ROPEU	Old_Violet_Box	5500	Old_Blue_Box	5000	Crystal_Jewel__	2000
+	
+AS_RAGGED_GOLEM	kRO	Old_Blue_Box	5000	Old_Violet_Box	5000	Old_Card_Album	2000
+	ROP	Old_Blue_Box	5000	Carnium	5000	Old_Card_Album	5000
+	ROPEU	Old_Blue_Box	5000	Old_Violet_Box	5000	Old_Card_Album	5000
+	
+ATROCE	kRO	Bs_Making_S	5500	Old_Violet_Box	5000	Old_Violet_Box	5000
+	ROP	Yggdrasilberry	5500	Carnium	5000	Old_Violet_Box	5000
+	ROPEU	Yggdrasilberry	5500	Old_Violet_Box	5000	Old_Violet_Box	5000
+	
+B_ALPHOCCIO	kRO	Magic_Card_Album	5000	Old_Violet_Box	5000	Goast_Chill	5000
+	ROP	Magic_Card_Album	5000	Carnium	5000	Goast_Chill	5000
+	ROPEU	Magic_Card_Album	5000	Old_Violet_Box	5000	Goast_Chill	5000
+	
+B_CELIA	kRO	Magic_Card_Album	5000	Old_Violet_Box	5000	Goast_Chill	5000
+	ROP	Magic_Card_Album	5000	Carnium	5000	Goast_Chill	5000
+	ROPEU	Magic_Card_Album	5000	Old_Violet_Box	5000	Goast_Chill	5000
+	
+B_CHEN	kRO	Magic_Card_Album	5000	Old_Violet_Box	5000	Goast_Chill	5000
+	ROP	Magic_Card_Album	5000	Carnium	5000	Goast_Chill	5000
+	ROPEU	Magic_Card_Album	5000	Old_Violet_Box	5000	Goast_Chill	5000
+	
+B_EREMES	kRO	Old_Violet_Box	5500	Goast_Chill	5000	Crystal_Jewel__	2000
+	ROP	Old_Violet_Box	5500	Carnium	5000	Crystal_Jewel__	2000
+	ROPEU	Old_Violet_Box	5500	Goast_Chill	5000	Crystal_Jewel__	2000
+	
+B_FLAMEL	kRO	Magic_Card_Album	5000	Old_Violet_Box	5000	Goast_Chill	5000
+	ROP	Magic_Card_Album	5000	Carnium	5000	Goast_Chill	5000
+	ROPEU	Magic_Card_Album	5000	Old_Violet_Box	5000	Goast_Chill	5000
+	
+B_GERTIE	kRO	Magic_Card_Album	5000	Old_Violet_Box	5000	Goast_Chill	5000
+	ROP	Magic_Card_Album	5000	Carnium	5000	Goast_Chill	5000
+	ROPEU	Magic_Card_Album	5000	Old_Violet_Box	5000	Goast_Chill	5000
+	
+B_HARWORD	kRO	Old_Violet_Box	5500	Goast_Chill	5000	Crystal_Jewel__	2000
+	ROP	Old_Violet_Box	5500	Carnium	5000	Crystal_Jewel__	2000
+	ROPEU	Old_Violet_Box	5500	Goast_Chill	5000	Crystal_Jewel__	2000
+	
+B_KATRINN	kRO	Old_Violet_Box	5500	Goast_Chill	5000	Crystal_Jewel__	2000
+	ROP	Old_Violet_Box	5500	Carnium	5000	Crystal_Jewel__	2000
+	ROPEU	Old_Violet_Box	5500	Goast_Chill	5000	Crystal_Jewel__	2000
+	
+B_MAGALETA	kRO	Old_Violet_Box	5500	Goast_Chill	5000	Crystal_Jewel__	2000
+	ROP	Old_Violet_Box	5500	Carnium	5000	Crystal_Jewel__	2000
+	ROPEU	Old_Violet_Box	5500	Goast_Chill	5000	Crystal_Jewel__	2000
+	
+B_NOVICE	kRO	Old_Violet_Box	5500	Old_Violet_Box	0	Old_Violet_Box	0
+	ROP	Old_Violet_Box	5500	Carnium	0	Old_Violet_Box	0
+	ROPEU	Old_Violet_Box	5500	Old_Violet_Box	0	Old_Violet_Box	0
+	
+B_RANDEL	kRO	Magic_Card_Album	5000	Old_Violet_Box	5000	Goast_Chill	5000
+	ROP	Magic_Card_Album	5000	Carnium	5000	Goast_Chill	5000
+	ROPEU	Magic_Card_Album	5000	Old_Violet_Box	5000	Goast_Chill	5000
+	
+B_SEYREN	kRO	Old_Violet_Box	5500	Goast_Chill	5000	Crystal_Jewel__	2000
+	ROP	Old_Violet_Box	5500	Carnium	5000	Crystal_Jewel__	2000
+	ROPEU	Old_Violet_Box	5500	Goast_Chill	5000	Crystal_Jewel__	2000
+	
+B_SHECIL	kRO	Old_Violet_Box	5500	Goast_Chill	5000	Luna_Bow	2000
+	ROP	Old_Violet_Box	5500	Carnium	5000	Luna_Bow	2000
+	ROPEU	Old_Violet_Box	5500	Goast_Chill	5000	Luna_Bow	2000
+	
+B_SUPERNOVICE	kRO	Old_Violet_Box	5500	Old_Violet_Box	0	Old_Violet_Box	0
+	ROP	Old_Violet_Box	5500	Carnium	0	Old_Violet_Box	0
+	ROPEU	Old_Violet_Box	5500	Old_Violet_Box	0	Old_Violet_Box	0
+	
+B_TRENTINI	kRO	Magic_Card_Album	5000	Old_Violet_Box	5000	Goast_Chill	5000
+	ROP	Magic_Card_Album	5000	Carnium	5000	Goast_Chill	5000
+	ROPEU	Magic_Card_Album	5000	Old_Violet_Box	5000	Goast_Chill	5000
+	
+B_YGNIZEM	kRO	Old_Violet_Box	5500	Goast_Chill	5000	Crystal_Jewel__	2000
+	ROP	Old_Violet_Box	5500	Carnium	5000	Crystal_Jewel__	2000
+	ROPEU	Old_Violet_Box	5500	Goast_Chill	5000	Crystal_Jewel__	2000
+	
+BACSOJIN_	kRO	Bs_Making_S	5000	Celestial_Robe	2000	Old_Violet_Box	5000
+	ROP	Yggdrasilberry	5500	Carnium	2000	Old_Violet_Box	5000
+	ROPEU	Yggdrasilberry	5500	Celestial_Robe	2000	Old_Violet_Box	5000
+	
+BAKONAWA_3	kRO	Old_Violet_Box	5500	Old_Violet_Box	0	Old_Violet_Box	0
+	ROP	Old_Violet_Box	5500	Carnium	0	Old_Violet_Box	0
+	ROPEU	Old_Violet_Box	5500	Old_Violet_Box	0	Old_Violet_Box	0
+	
+BANGUNGOT_3	kRO	Old_Violet_Box	5500	Old_Violet_Box	0	Old_Violet_Box	0
+	ROP	Old_Violet_Box	5500	Carnium	0	Old_Violet_Box	0
+	ROPEU	Old_Violet_Box	5500	Old_Violet_Box	0	Old_Violet_Box	0
+	
+BAPHOMET	kRO	Bs_Making_S	5000	Baphomet_Doll	2500	Evil_Horn	5000
+	ROP	Yggdrasilberry	2000	Carnium	500	Evil_Horn	5000
+	ROPEU	Yggdrasilberry	2000	Baphomet_Doll	500	Evil_Horn	5000
+	
+BEELZEBUB_	kRO	Old_Violet_Box	5500	Bs_Making_S	5000	Box_Of_Grudge	5500
+	ROP	Old_Violet_Box	5500	Carnium	5000	Box_Of_Grudge	5500
+	ROPEU	Old_Violet_Box	5500	Yggdrasilberry	5000	Box_Of_Grudge	5500
+	
+BIJOU	kRO	Old_Violet_Box	5000	Old_Card_Album	2000	White_Potion_Box	3000
+	ROP	Old_Violet_Box	5000	Carnium	2000	White_Potion_Box	3000
+	ROPEU	Old_Violet_Box	5000	Old_Card_Album	2000	White_Potion_Box	3000
+	
+BOITATA	kRO	Bs_Making_S	5000	Old_Violet_Box	5000	Old_Card_Album	2000
+	ROP	Old_Violet_Box	5500	Carnium	5000	Old_Card_Album	2000
+	ROPEU	Old_Violet_Box	5500	Old_Violet_Box	5000	Old_Card_Album	2000
+	
+BUWAYA	kRO	Old_Violet_Box	5500	Old_Violet_Box	0	Old_Violet_Box	0
+	ROP	Old_Violet_Box	5500	Carnium	0	Old_Violet_Box	0
+	ROPEU	Old_Violet_Box	5500	Old_Violet_Box	0	Old_Violet_Box	0
+	
+DAEHYON	kRO	Magic_Card_Album	5000	Bs_Making_S	5000	Old_Violet_Box	5000
+	ROP	Magic_Card_Album	5000	Carnium	5000	Old_Violet_Box	5000
+	ROPEU	Magic_Card_Album	5000	Old_Violet_Box	5000	Old_Violet_Box	5000
+	
+DARK_LORD	kRO	Skull	6000	Blue_Coif_	500	Bs_Making_S	5000
+	ROP	Skull	6000	Carnium	500	Old_Violet_Box	2000
+	ROPEU	Skull	6000	Blue_Coif_	500	Old_Violet_Box	2000
+	
+DARK_SNAKE_LORD	kRO	Bs_Making_S	5000	Old_Violet_Box	5000	Elunium	5500
+	ROP	Yggdrasilberry	5500	Carnium	5000	Elunium	5500
+	ROPEU	Yggdrasilberry	5500	Old_Violet_Box	5000	Elunium	5500
+	
+DETALE	kRO	Old_Violet_Box	5500	Bs_Making_S	5000	Crystal_Jewel__	2000
+	ROP	Old_Violet_Box	5500	Carnium	5000	Crystal_Jewel__	2000
+	ROPEU	Old_Violet_Box	5500	Old_Blue_Box	5000	Crystal_Jewel__	2000
+	
+DOPPELGANGER	kRO	Cardinal_Jewel_	1500	Blue_Potion	6000	Bs_Making_S	5000
+	ROP	Cardinal_Jewel_	1500	Carnium	6000	Apple	0
+	ROPEU	Cardinal_Jewel_	1500	Blue_Potion	6000	Apple	0
+	
+DR_BIG_EGGRING	kRO	Old_Violet_Box	5000	Old_Blue_Box	5000	Royal_Jelly	5000
+	ROP	Old_Violet_Box	5000	Carnium	5000	Royal_Jelly	5000
+	ROPEU	Old_Violet_Box	5000	Old_Blue_Box	5000	Royal_Jelly	5000
+	
+DRACULA	kRO	Bs_Making_S	5000	Crystal_Jewel__	5000	Mastela_Fruit	5000
+	ROP	Yggdrasilberry	5500	Carnium	5000	Fruit_Of_Mastela	5000
+	ROPEU	Yggdrasilberry	5500	Crystal_Jewel__	5000	Fruit_Of_Mastela	5000
+	
+DRAKE	kRO	White_Potion	5000	Violet_Jewel	500	Bs_Making_S	5000
+	ROP	White_Potion	5000	Carnium	500	Apple	0
+	ROPEU	White_Potion	5000	Violet_Jewel	500	Apple	0
+	
+E_ANOPHELES	kRO	Mosquito_Coil	10000	Mosquito_Coil	0	Mosquito_Coil	0
+	ROP	Mosquito_Coil	10000	Carnium	0	Mosquito_Coil	0
+	ROPEU	Mosquito_Coil	10000	Mosquito_Coil	0	Mosquito_Coil	0
+	
+E_APOCALIPS_H	kRO	Old_Violet_Box	5500	Old_Blue_Box	2000	Old_Blue_Box	2000
+	ROP	Old_Violet_Box	5500	Carnium	2000	Old_Blue_Box	2000
+	ROPEU	Old_Violet_Box	5500	Old_Blue_Box	2000	Old_Blue_Box	2000
+	
+E_B_EREMES	kRO	Old_Violet_Box	5500	Old_Blue_Box	2000	Old_Blue_Box	2000
+	ROP	Old_Violet_Box	5500	Carnium	2000	Old_Blue_Box	2000
+	ROPEU	Old_Violet_Box	5500	Old_Blue_Box	2000	Old_Blue_Box	2000
+	
+E_B_HARWORD	kRO	Old_Violet_Box	5500	Old_Blue_Box	2000	Old_Blue_Box	2000
+	ROP	Old_Violet_Box	5500	Carnium	2000	Old_Blue_Box	2000
+	ROPEU	Old_Violet_Box	5500	Old_Blue_Box	2000	Old_Blue_Box	2000
+	
+E_B_SEYREN	kRO	Old_Violet_Box	5500	Old_Blue_Box	2000	Old_Blue_Box	2000
+	ROP	Old_Violet_Box	5500	Carnium	2000	Old_Blue_Box	2000
+	ROPEU	Old_Violet_Box	5500	Old_Blue_Box	2000	Old_Blue_Box	2000
+	
+E_BAPHOMET2	kRO	Yggdrasilberry	2000	Baphomet_Doll	5000	Baphomet_Doll	5000
+	ROP	Yggdrasilberry	2000	Carnium	5000	Baphomet_Doll	5000
+	ROPEU	Yggdrasilberry	2000	Baphomet_Doll	5000	Baphomet_Doll	5000
+	
+E_DARK_LORD	kRO	Skull	6000	Blue_Coif_	2000	Blue_Coif_	2000
+	ROP	Skull	6000	Carnium	2000	Blue_Coif_	2000
+	ROPEU	Skull	6000	Blue_Coif_	2000	Blue_Coif_	2000
+	
+E_DARK_SNAKE_LORD	kRO	Yggdrasilberry	5500	Old_Violet_Box	5500	Old_Violet_Box	5500
+	ROP	Yggdrasilberry	5500	Carnium	5500	Old_Violet_Box	5500
+	ROPEU	Yggdrasilberry	5500	Old_Violet_Box	5500	Old_Violet_Box	5500
+	
+E_DOPPELGANGER	kRO	Cardinal_Jewel_	1500	Blue_Potion	0	Blue_Potion	0
+	ROP	Cardinal_Jewel_	1500	Carnium	0	Blue_Potion	0
+	ROPEU	Cardinal_Jewel_	1500	Blue_Potion	0	Blue_Potion	0
+	
+E_DRACULA	kRO	Yggdrasilberry	5500	Crystal_Jewel__	5000	Crystal_Jewel__	5000
+	ROP	Yggdrasilberry	5500	Carnium	5000	Crystal_Jewel__	5000
+	ROPEU	Yggdrasilberry	5500	Crystal_Jewel__	5000	Crystal_Jewel__	5000
+	
+E_EDDGA	kRO	Tiger's_Skin	5000	Tiger_Footskin	3000	Tiger_Footskin	3000
+	ROP	Tiger's_Skin	5000	Carnium	3000	Tiger_Footskin	3000
+	ROPEU	Tiger's_Skin	5000	Tiger_Footskin	3000	Tiger_Footskin	3000
+	
+E_FALLINGBISHOP	kRO	Yggdrasilberry	5500	Seed_Of_Yggdrasil	2000	Seed_Of_Yggdrasil	2000
+	ROP	Yggdrasilberry	5500	Carnium	2000	Seed_Of_Yggdrasil	2000
+	ROPEU	Yggdrasilberry	5500	Seed_Of_Yggdrasil	2000	Seed_Of_Yggdrasil	2000
+	
+E_GLOOMUNDERNIGHT	kRO	Yggdrasilberry	5500	Old_Violet_Box	5000	Old_Violet_Box	5000
+	ROP	Yggdrasilberry	5500	Carnium	5000	Old_Violet_Box	5000
+	ROPEU	Yggdrasilberry	5500	Old_Violet_Box	5000	Old_Violet_Box	5000
+	
+E_IFRIT	kRO	Old_Violet_Box	5500	Carnium	2000	Carnium	2000
+	ROP	Old_Violet_Box	5500	Carnium	2000	Carnium	2000
+	ROPEU	Old_Violet_Box	5500	Carnium	2000	Carnium	2000
+	
+E_KTULLANUX	kRO	Yggdrasilberry	5500	Old_Violet_Box	5000	Old_Violet_Box	5000
+	ROP	Yggdrasilberry	5500	Carnium	5000	Old_Violet_Box	5000
+	ROPEU	Yggdrasilberry	5500	Old_Violet_Box	5000	Old_Violet_Box	5000
+	
+E_LORD_OF_DEATH	kRO	Helm_Of_Sun	10000	Seed_Of_Yggdrasil	0	Crystal_Jewel__	0
+	ROP	Helm_Of_Sun	10000	Carnium	0	Crystal_Jewel__	0
+	ROPEU	Helm_Of_Sun	10000	Seed_Of_Yggdrasil	0	Crystal_Jewel__	0
+	
+E_LORD_OF_DEATH2	kRO	Yggdrasilberry	5500	Crystal_Jewel__	5000	Crystal_Jewel__	5000
+	ROP	Yggdrasilberry	5500	Carnium	5000	Crystal_Jewel__	5000
+	ROPEU	Yggdrasilberry	5500	Crystal_Jewel__	5000	Crystal_Jewel__	5000
+	
+E_MISTRESS	kRO	Rough_Wind	1500	Royal_Jelly	3000	Royal_Jelly	3000
+	ROP	Rough_Wind	1500	Carnium	3000	Royal_Jelly	3000
+	ROPEU	Rough_Wind	1500	Royal_Jelly	3000	Royal_Jelly	3000
+	
+E_ORK_HERO2	kRO	Red_Jewel	2000	Yggdrasilberry	5000	Yggdrasilberry	5000
+	ROP	Red_Jewel	2000	Carnium	5000	Yggdrasilberry	5000
+	ROPEU	Red_Jewel	2000	Yggdrasilberry	5000	Yggdrasilberry	5000
+	
+E_OSIRIS2	kRO	Old_Blue_Box	4000	Seed_Of_Yggdrasil	500	Seed_Of_Yggdrasil	500
+	ROP	Old_Blue_Box	4000	Carnium	500	Seed_Of_Yggdrasil	500
+	ROPEU	Old_Blue_Box	4000	Seed_Of_Yggdrasil	500	Seed_Of_Yggdrasil	500
+	
+E_RANDGRIS	kRO	Old_Violet_Box	5500	Old_Blue_Box	2000	Old_Blue_Box	2000
+	ROP	Old_Violet_Box	5500	Carnium	2000	Old_Blue_Box	2000
+	ROPEU	Old_Violet_Box	5500	Old_Blue_Box	2000	Old_Blue_Box	2000
+	
+E_TURTLE_GENERAL	kRO	Turtle_Shell	5500	Yggdrasilberry	2000	Yggdrasilberry	2000
+	ROP	Turtle_Shell	5500	Carnium	2000	Yggdrasilberry	2000
+	ROPEU	Turtle_Shell	5500	Yggdrasilberry	2000	Yggdrasilberry	2000
+	
+E_VADON_X	kRO	Valhalla_Flower	10000	Valhalla_Flower	10000	Valhalla_Flower	10000
+	ROP	Apple	5000	Carnium	5000	Apple	5000
+	ROPEU	Apple	5000	Apple	5000	Apple	5000
+	
+EDDGA	kRO	Tiger's_Skin	5000	Tiger_Footskin	1000	Bs_Making_S	5000
+	ROP	Tiger's_Skin	5000	Carnium	1000	Flame_Heart	3000
+	ROPEU	Tiger's_Skin	5000	Tiger_Footskin	1000	Flame_Heart	3000
+	
+EM_ANGELING	kRO	Jellopy	5000	Jellopy	5000	Poring_Doll	5000
+	ROP	Jellopy	5000	Carnium	5000	Poring_Doll	5000
+	ROPEU	Jellopy	5000	Jellopy	5000	Poring_Doll	5000
+	
+EM_DEVILING	kRO	Jellopy	5000	Jellopy	5000	Poring_Doll	5000
+	ROP	Jellopy	5000	Carnium	5000	Poring_Doll	5000
+	ROPEU	Jellopy	5000	Jellopy	5000	Poring_Doll	5000
+	
+ENTWEIHEN	kRO	Old_Violet_Box	5500	Old_Violet_Box	0	Old_Violet_Box	0
+	ROP	Old_Violet_Box	5500	Carnium	0	Old_Violet_Box	0
+	ROPEU	Old_Violet_Box	5500	Old_Violet_Box	0	Old_Violet_Box	0
+	
+EP16_2_H_HUNTER_EV	kRO	Old_Blue_Box	5000	Old_Violet_Box	5000	Yggdrasilberry	5000
+	ROP	Old_Blue_Box	5000	Carnium	5000	Yggdrasilberry	5000
+	ROPEU	Old_Blue_Box	5000	Old_Violet_Box	5000	Yggdrasilberry	5000
+	
+EP16_2_MM_CUTIE	kRO	Old_Blue_Box	5000	Old_Violet_Box	5000	Yggdrasilberry	5000
+	ROP	Old_Blue_Box	5000	Carnium	5000	Yggdrasilberry	5000
+	ROPEU	Old_Blue_Box	5000	Old_Violet_Box	5000	Yggdrasilberry	5000
+	
+EP16_2_VENOM_KIMERA	kRO	Magic_Card_Album	5000	Old_Violet_Box	5000	Bs_Making_S	5000
+	ROP	Magic_Card_Album	5000	Carnium	5000	Yggdrasilberry	5000
+	ROPEU	Magic_Card_Album	5000	Old_Violet_Box	5000	Yggdrasilberry	5000
+	
+EVENT_BAPHO	kRO	Yggdrasilberry	5500	Royal_Jelly	5000	Crystal_Jewel__	5000
+	ROP	Yggdrasilberry	5500	Carnium	5000	Crystal_Jewel__	5000
+	ROPEU	Yggdrasilberry	5500	Royal_Jelly	5000	Crystal_Jewel__	5000
+	
+EVENT_DETALE	kRO	Bloody_Dead_Branch	5500	Old_Violet_Box	5000	Old_Violet_Box	5500
+	ROP	Bloody_Dead_Branch	5500	Carnium	5000	Old_Violet_Box	5500
+	ROPEU	Bloody_Dead_Branch	5500	Old_Violet_Box	5000	Old_Violet_Box	5500
+	
+EVENT_GOURD	kRO	Fatty_Chubby_Earthworm	5000	Fatty_Chubby_Earthworm	5000	Fatty_Chubby_Earthworm	5000
+	ROP	Fatty_Chubby_Earthworm	5000	Carnium	5000	Fatty_Chubby_Earthworm	5000
+	ROPEU	Fatty_Chubby_Earthworm	5000	Fatty_Chubby_Earthworm	5000	Fatty_Chubby_Earthworm	5000
+	
+EVENT_HYDRO	kRO	Old_Violet_Box	5500	Old_Blue_Box	5000	Old_Violet_Box	5500
+	ROP	Old_Violet_Box	5500	Carnium	5000	Old_Violet_Box	5500
+	ROPEU	Old_Violet_Box	5500	Old_Blue_Box	5000	Old_Violet_Box	5500
+	
+FACEWORM_QUEEN	kRO	Magic_Card_Album	5000	Old_Violet_Box	5000	Old_Violet_Box	5000
+	ROP	Magic_Card_Album	5000	Carnium	5000	Old_Violet_Box	5000
+	ROPEU	Magic_Card_Album	5000	Old_Violet_Box	5000	Old_Violet_Box	5000
+	
+FACEWORM_QUEEN_B	kRO	Magic_Card_Album	5000	Old_Violet_Box	5000	Old_Violet_Box	5000
+	ROP	Magic_Card_Album	5000	Carnium	5000	Old_Violet_Box	5000
+	ROPEU	Magic_Card_Album	5000	Old_Violet_Box	5000	Old_Violet_Box	5000
+	
+FACEWORM_QUEEN_G	kRO	Magic_Card_Album	5000	Old_Violet_Box	5000	Old_Violet_Box	5000
+	ROP	Magic_Card_Album	5000	Carnium	5000	Old_Violet_Box	5000
+	ROPEU	Magic_Card_Album	5000	Old_Violet_Box	5000	Old_Violet_Box	5000
+	
+FACEWORM_QUEEN_R	kRO	Magic_Card_Album	5000	Old_Violet_Box	5000	Old_Violet_Box	5000
+	ROP	Magic_Card_Album	5000	Carnium	5000	Old_Violet_Box	5000
+	ROPEU	Magic_Card_Album	5000	Old_Violet_Box	5000	Old_Violet_Box	5000
+	
+FACEWORM_QUEEN_Y	kRO	Magic_Card_Album	5000	Old_Violet_Box	5000	Old_Violet_Box	5000
+	ROP	Magic_Card_Album	5000	Carnium	5000	Old_Violet_Box	5000
+	ROPEU	Magic_Card_Album	5000	Old_Violet_Box	5000	Old_Violet_Box	5000
+	
+FALLINGBISHOP	kRO	Bs_Making_S	5000	Seed_Of_Yggdrasil	3500	Crystal_Jewel__	2000
+	ROP	Yggdrasilberry	5500	Carnium	3500	Crystal_Jewel__	2000
+	ROPEU	Yggdrasilberry	5500	Seed_Of_Yggdrasil	3500	Crystal_Jewel__	2000
+	
+GARM	kRO	Fang_Of_Garm	1000	Old_Blue_Box	3000	Bs_Making_S	5000
+	ROP	Fang_Of_Garm	1000	Carnium	3000	Mistic_Frozen	3000
+	ROPEU	Fang_Of_Garm	1000	Old_Blue_Box	3000	Mistic_Frozen	3000
+	
+GIOIA	kRO	Magic_Card_Album	5000	Bs_Making_S	5000	Old_Violet_Box	5000
+	ROP	Magic_Card_Album	5000	Carnium	5000	Old_Violet_Box	5000
+	ROPEU	Magic_Card_Album	5000	Old_Violet_Box	5000	Old_Violet_Box	5000
+	
+GLOOMUNDERNIGHT	kRO	Old_Violet_Box	5000	Old_Violet_Box	5000	Bs_Making_S	5000
+	ROP	Yggdrasilberry	5500	Carnium	5000	Old_Violet_Box	5000
+	ROPEU	Yggdrasilberry	5500	Old_Violet_Box	5000	Old_Violet_Box	5000
+	
+GOLDEN_BUG	kRO	Gold_Ring	2000	Ora_Ora	1000	Bs_Making_S	5000
+	ROP	Gold_Ring	2000	Carnium	1000	Apple	0
+	ROPEU	Gold_Ring	2000	Ora_Ora	1000	Apple	0
+	
+GOPINICH	kRO	Bs_Making_S	5000	Old_Violet_Box	5000	Old_Violet_Box	5000
+	ROP	Yggdrasilberry	5500	Carnium	5000	Old_Violet_Box	5000
+	ROPEU	Yggdrasilberry	5500	Old_Violet_Box	5000	Old_Violet_Box	5000
+	
+I_QUEEN_SCARABA	kRO	Magic_Card_Album	5000	Old_Card_Album	5000	Bs_Making_S	5000
+	ROP	Magic_Card_Album	5000	Carnium	5000	Old_Card_Album	5000
+	ROPEU	Magic_Card_Album	5000	Old_Card_Album	5000	Old_Card_Album	5000
+	
+IFRIT	kRO	Bs_Making_S	5000	Carnium	5000	Old_Card_Album	2000
+	ROP	Old_Violet_Box	5500	Carnium	5000	Old_Card_Album	2000
+	ROPEU	Old_Violet_Box	5500	Apple	5000	Old_Card_Album	2000
+	
+ILL_KTULLANUX	kRO	IllusionStone	3000	Yggdrasilberry	5000	Yggdrasilberry	5000
+	ROP	IllusionStone	3000	Carnium	5000	Yggdrasilberry	5000
+	ROPEU	IllusionStone	3000	Yggdrasilberry	5000	Yggdrasilberry	5000
+	
+ILL_MOONLIGHT	kRO	Old_Violet_Box	5000	Yggdrasilberry	2000	IllusionStone	500
+	ROP	Old_Violet_Box	5000	Carnium	2000	IllusionStone	500
+	ROPEU	Old_Violet_Box	5000	Yggdrasilberry	2000	IllusionStone	500
+	
+INCANTATION_SAMURAI	kRO	Bs_Making_S	5000	Seed_Of_Yggdrasil	3500	Elunium	5500
+	ROP	Yggdrasilberry	5500	Carnium	3500	Elunium	5500
+	ROPEU	Yggdrasilberry	5500	Seed_Of_Yggdrasil	3500	Elunium	5500
+	
+KADES	kRO	Magic_Card_Album	5000	Old_Violet_Box	5000	Bs_Making_S	5000
+	ROP	Magic_Card_Album	5000	Carnium	5000	Old_Violet_Box	5000
+	ROPEU	Magic_Card_Album	5000	Old_Violet_Box	5000	Old_Violet_Box	5000
+	
+KIEL_	kRO	Old_Violet_Box	5500	Bs_Making_S	5000	Old_Card_Album	2000
+	ROP	Old_Violet_Box	5500	Carnium	5000	Old_Card_Album	2000
+	ROPEU	Old_Violet_Box	5500	Old_Blue_Box	5000	Old_Card_Album	2000
+	
+KNIGHT_OF_WINDSTORM	kRO	Skyblue_Jewel	4500	Bs_Making_S	5000	Mistic_Frozen	3000
+	ROP	Skyblue_Jewel	4500	Carnium	500	Mistic_Frozen	3000
+	ROPEU	Skyblue_Jewel	4500	Boots_	500	Mistic_Frozen	3000
+	
+KRAKEN	kRO	Bs_Making_S	5000	Old_Card_Album	5000	Treasure_Box	5000
+	ROP	Old_Violet_Box	5000	Carnium	5000	Old_Card_Album	5000
+	ROPEU	Old_Violet_Box	5000	Old_Card_Album	5000	Old_Card_Album	5000
+	
+KTULLANUX	kRO	Bs_Making_S	5000	Old_Violet_Box	5000	Old_Violet_Box	5000
+	ROP	Yggdrasilberry	5500	Carnium	5000	Old_Violet_Box	5000
+	ROPEU	Yggdrasilberry	5500	Old_Violet_Box	5000	Old_Violet_Box	5000
+	
+KUBLIN	kRO	Pickaxe	10000	Seed_Of_Yggdrasil	0	Crystal_Jewel__	0
+	ROP	Pickaxe	10000	Carnium	0	Crystal_Jewel__	0
+	ROPEU	Pickaxe	10000	Seed_Of_Yggdrasil	0	Crystal_Jewel__	0
+	
+LADY_TANEE	kRO	Bs_Making_S	5000	Dex_Dish10	5000	Crystal_Jewel__	2000
+	ROP	Old_Violet_Box	5500	Carnium	5000	Crystal_Jewel__	2000
+	ROPEU	Old_Violet_Box	5500	Dex_Dish10	5000	Crystal_Jewel__	2000
+	
+LEAK	kRO	Bs_Making_S	5000	Old_Violet_Box	5000	Old_Violet_Box	5000
+	ROP	Old_Violet_Box	5000	Carnium	5000	Old_Violet_Box	5000
+	ROPEU	Old_Violet_Box	5000	Old_Violet_Box	5000	Old_Violet_Box	5000
+	
+LORD_OF_DEATH	kRO	Crystal_Jewel__	5000	Old_Violet_Box	5000	Bs_Making_S	5000
+	ROP	Yggdrasilberry	5500	Carnium	5000	Old_Violet_Box	5000
+	ROPEU	Yggdrasilberry	5500	Crystal_Jewel__	5000	Old_Violet_Box	5000
+	
+LOST_DRAGON	kRO	Old_Card_Album	500	Old_Violet_Box	5000	Old_Violet_Box	5000
+	ROP	Old_Card_Album	3300	Carnium	5000	Old_Violet_Box	5000
+	ROPEU	Old_Card_Album	3300	Old_Violet_Box	5000	Old_Violet_Box	5000
+	
+MAYA	kRO	Crystal_Jewel	2000	Bs_Making_S	5000	Old_Violet_Box	2000
+	ROP	Crystal_Jewel	2000	Carnium	3000	Old_Violet_Box	2000
+	ROPEU	Crystal_Jewel	2000	Old_Blue_Box	3000	Old_Violet_Box	2000
+	
+MECHASPIDER	kRO	Bs_Making_S	5000	Old_Violet_Box	5000	Old_Violet_Box	5000
+	ROP	Old_Violet_Box	5500	Carnium	0	Old_Violet_Box	0
+	ROPEU	Old_Violet_Box	5500	Old_Violet_Box	0	Old_Violet_Box	0
+	
+MG_AMDARAIS	kRO	Old_Violet_Box	5500	Old_Violet_Box	0	Old_Violet_Box	0
+	ROP	Old_Violet_Box	5500	Carnium	0	Old_Violet_Box	0
+	ROPEU	Old_Violet_Box	5500	Old_Violet_Box	0	Old_Violet_Box	0
+	
+MG_CORRUPTION_ROOT	kRO	Old_Violet_Box	5500	Old_Violet_Box	0	Old_Violet_Box	0
+	ROP	Old_Violet_Box	5500	Carnium	0	Old_Violet_Box	0
+	ROPEU	Old_Violet_Box	5500	Old_Violet_Box	0	Old_Violet_Box	0
+	
+MISTRESS	kRO	Bs_Making_S	5000	Royal_Jelly	4000	Scarlet_Jewel	3000
+	ROP	Rough_Wind	1500	Carnium	4000	Scarlet_Jewel	3000
+	ROPEU	Rough_Wind	1500	Royal_Jelly	4000	Scarlet_Jewel	3000
+	
+MOONLIGHT	kRO	Fox_Tail	5000	Bs_Making_S	5000	Golden_Jewel	500
+	ROP	Fox_Tail	5000	Carnium	1500	Golden_Jewel	500
+	ROPEU	Fox_Tail	5000	White_Potion	1500	Golden_Jewel	500
+	
+MOROCC_	kRO	Bs_Making_S	5000	Old_Violet_Box	5000	Old_Violet_Box	5000
+	ROP	Yggdrasilberry	5500	Carnium	5000	Old_Violet_Box	5000
+	ROPEU	Yggdrasilberry	5500	Old_Violet_Box	5000	Old_Violet_Box	5000
+	
+N_AMON_RA	kRO	Bs_Making_S	5000	Seed_Of_Yggdrasil	3500	Crystal_Jewel__	5500
+	ROP	Yggdrasilberry	5500	Carnium	3500	Crystal_Jewel__	5500
+	ROPEU	Yggdrasilberry	5500	Seed_Of_Yggdrasil	3500	Crystal_Jewel__	5500
+	
+NAGHT_SIEGER	kRO	Old_Violet_Box	5500	Old_Violet_Box	0	Old_Violet_Box	0
+	ROP	Old_Violet_Box	5500	Carnium	0	Old_Violet_Box	0
+	ROPEU	Old_Violet_Box	5500	Old_Violet_Box	0	Old_Violet_Box	0
+	
+NG_BAPHOMET	kRO	Yggdrasilberry	2000	Baphomet_Doll	500	Evil_Horn	5000
+	ROP	Yggdrasilberry	2000	Carnium	500	Evil_Horn	5000
+	ROPEU	Yggdrasilberry	2000	Old_Violet_Box	500	Evil_Horn	5000
+	
+ORC_LORD	kRO	Voucher_Of_Orcish_Hero	5500	Old_Violet_Box	2000	Bs_Making_S	5000
+	ROP	Voucher_Of_Orcish_Hero	5500	Carnium	2000	Apple	0
+	ROPEU	Voucher_Of_Orcish_Hero	5500	Old_Violet_Box	2000	Apple	0
+	
+ORK_HERO	kRO	Red_Jewel	2000	Bs_Making_S	5000	Steel	5000
+	ROP	Red_Jewel	2000	Carnium	1500	Steel	5000
+	ROPEU	Red_Jewel	2000	Yggdrasilberry	1500	Steel	5000
+	
+OSIRIS	kRO	Bs_Making_S	5000	Seed_Of_Yggdrasil	3000	Osiris_Doll	500
+	ROP	Old_Blue_Box	4000	Carnium	3000	Osiris_Doll	500
+	ROPEU	Old_Blue_Box	4000	Seed_Of_Yggdrasil	3000	Osiris_Doll	500
+	
+PHARAOH	kRO	Bs_Making_S	5000	Royal_Jelly	5000	Crystal_Jewel__	5000
+	ROP	Yggdrasilberry	5500	Carnium	5000	Crystal_Jewel__	5000
+	ROPEU	Yggdrasilberry	5500	Royal_Jelly	5000	Crystal_Jewel__	5000
+	
+PHREEONI	kRO	Frozen_Heart	500	Bs_Making_S	5000	Star_Crumb	4000
+	ROP	Frozen_Heart	500	Carnium	1000	Star_Crumb	4000
+	ROPEU	Frozen_Heart	500	Crystal_Jewel	1000	Star_Crumb	4000
+	
+PORING_V	kRO	Sword_Of_Grave_Keeper	1000	Poring__Card	100	Elven_Ears	200
+	ROP	Sword_Of_Grave_Keeper	1000	Carnium	100	Elven_Ears	200
+	ROPEU	Sword_Of_Grave_Keeper	1000	Poring__Card	100	Elven_Ears	200
+	
+PYURIEL	kRO	Magic_Card_Album	5000	Bs_Making_S	5000	Old_Violet_Box	5000
+	ROP	Magic_Card_Album	5000	Carnium	5000	Old_Violet_Box	5000
+	ROPEU	Magic_Card_Album	5000	Old_Violet_Box	5000	Old_Violet_Box	5000
+	
+QUEEN_SCARABA	kRO	Bs_Making_S	5000	Old_Card_Album	5000	Old_Card_Album	2000
+	ROP	Old_Card_Album	5500	Carnium	5000	Old_Card_Album	2000
+	ROPEU	Old_Card_Album	5500	Old_Card_Album	5000	Old_Card_Album	2000
+	
+RANDGRIS	kRO	Old_Violet_Box	5500	Bs_Making_S	5000	Old_Card_Album	2000
+	ROP	Old_Violet_Box	5500	Carnium	5000	Old_Card_Album	2000
+	ROPEU	Old_Violet_Box	5500	Old_Blue_Box	5000	Old_Card_Album	2000
+	
+RSX_0806	kRO	Bs_Making_S	5000	Dark_Blindfold	3500	Crystal_Jewel__	5500
+	ROP	Yggdrasilberry	5500	Carnium	3500	Crystal_Jewel__	5500
+	ROPEU	Yggdrasilberry	5500	Dark_Blindfold	3500	Crystal_Jewel__	5500
+	
+S_NYDHOG	kRO	Old_Violet_Box	5500	Old_Violet_Box	5000	Old_Card_Album	2000
+	ROP	Old_Violet_Box	5500	Carnium	5000	Old_Card_Album	2000
+	ROPEU	Old_Violet_Box	5500	Old_Violet_Box	5000	Old_Card_Album	2000
+	
+T_W_O	kRO	Problematical_Part	10000	Old_Violet_Box	2000	Old_Violet_Box	2000
+	ROP	Problematical_Part	10000	Carnium	2000	Old_Violet_Box	2000
+	ROPEU	Problematical_Part	10000	Old_Violet_Box	2000	Old_Violet_Box	2000
+	
+TAO_GUNKA	kRO	Bs_Making_S	5000	Old_Violet_Box	3000	Blue_Potion	6000
+	ROP	Oridecon	6000	Carnium	3000	Blue_Potion	6000
+	ROPEU	Oridecon	6000	Old_Violet_Box	3000	Blue_Potion	6000
+	
+THANATOS	kRO	Bs_Making_S	5000	Old_Blue_Box	5000	Crystal_Jewel__	2000
+	ROP	Old_Violet_Box	5500	Carnium	5000	Crystal_Jewel__	2000
+	ROPEU	Old_Violet_Box	5500	Old_Blue_Box	5000	Crystal_Jewel__	2000
+	
+TIMEHOLDER	kRO	Bs_Making_S	5000	Yggdrasilberry	5000	Key_Of_Twisted_Time	2000
+	ROP	Old_Violet_Box	5500	Carnium	5000	Key_Of_Twisted_Time	2000
+	ROPEU	Old_Violet_Box	5500	Yggdrasilberry	5000	Key_Of_Twisted_Time	2000
+	
+TURTLE_GENERAL	kRO	Bs_Making_S	5000	Yggdrasilberry	1500	Old_Violet_Box	2000
+	ROP	Turtle_Shell	5500	Carnium	1500	Old_Violet_Box	2000
+	ROPEU	Turtle_Shell	5500	Yggdrasilberry	1500	Old_Violet_Box	2000
+	
+V_B_ALPHOCCIO	kRO	Soul_Of_Archer	5000	Soul_Of_Archer	5000	Soul_Of_Archer	5000
+	ROP	Soul_Of_Archer	5000	Carnium	5000	Soul_Of_Archer	5000
+	ROPEU	Soul_Of_Archer	5000	Soul_Of_Archer	5000	Soul_Of_Archer	5000
+	
+V_B_CELIA	kRO	Soul_Of_Magicion	5000	Soul_Of_Magicion	5000	Soul_Of_Magicion	5000
+	ROP	Soul_Of_Magicion	5000	Carnium	5000	Soul_Of_Magicion	5000
+	ROPEU	Soul_Of_Magicion	5000	Soul_Of_Magicion	5000	Soul_Of_Magicion	5000
+	
+V_B_CHEN	kRO	Soul_Of_Acolyte	5000	Soul_Of_Acolyte	5000	Soul_Of_Acolyte	5000
+	ROP	Magic_Card_Album	5000	Carnium	500	Soul_Of_Acolyte	5000
+	ROPEU	Magic_Card_Album	5000	Manteau_Of_Fallen	500	Soul_Of_Acolyte	5000
+	
+V_B_EREMES	kRO	Soul_Of_Thief	5000	Soul_Of_Thief	5000	Soul_Of_Thief	5000
+	ROP	Soul_Of_Thief	5000	Carnium	5000	Soul_Of_Thief	5000
+	ROPEU	Soul_Of_Thief	5000	Soul_Of_Thief	5000	Soul_Of_Thief	5000
+	
+V_B_FLAMEL	kRO	Soul_Of_Merchant	5000	Soul_Of_Merchant	5000	Soul_Of_Merchant	5000
+	ROP	Soul_Of_Merchant	5000	Carnium	5000	Soul_Of_Merchant	5000
+	ROPEU	Soul_Of_Merchant	5000	Soul_Of_Merchant	5000	Soul_Of_Merchant	5000
+	
+V_B_GERTIE	kRO	Soul_Of_Thief	5000	Soul_Of_Thief	5000	Soul_Of_Thief	5000
+	ROP	Soul_Of_Thief	5000	Carnium	5000	Soul_Of_Thief	5000
+	ROPEU	Soul_Of_Thief	5000	Soul_Of_Thief	5000	Soul_Of_Thief	5000
+	
+V_B_HARWORD	kRO	Soul_Of_Merchant	5000	Soul_Of_Merchant	5000	Soul_Of_Merchant	5000
+	ROP	Soul_Of_Merchant	5000	Carnium	5000	Soul_Of_Merchant	5000
+	ROPEU	Soul_Of_Merchant	5000	Soul_Of_Merchant	5000	Soul_Of_Merchant	5000
+	
+V_B_KATRINN	kRO	Soul_Of_Magicion	5000	Soul_Of_Magicion	5000	Soul_Of_Magicion	5000
+	ROP	Soul_Of_Magicion	5000	Carnium	5000	Soul_Of_Magicion	5000
+	ROPEU	Soul_Of_Magicion	5000	Soul_Of_Magicion	5000	Soul_Of_Magicion	5000
+	
+V_B_MAGALETA	kRO	Soul_Of_Acolyte	5000	Soul_Of_Acolyte	5000	Soul_Of_Acolyte	5000
+	ROP	Soul_Of_Acolyte	5000	Carnium	5000	Soul_Of_Acolyte	5000
+	ROPEU	Soul_Of_Acolyte	5000	Soul_Of_Acolyte	5000	Soul_Of_Acolyte	5000
+	
+V_B_RANDEL	kRO	Soul_Of_Swordman	5000	Soul_Of_Swordman	5000	Soul_Of_Swordman	5000
+	ROP	Soul_Of_Swordman	5000	Carnium	5000	Soul_Of_Swordman	5000
+	ROPEU	Soul_Of_Swordman	5000	Soul_Of_Swordman	5000	Soul_Of_Swordman	5000
+	
+V_B_SEYREN	kRO	Soul_Of_Swordman	5000	Soul_Of_Swordman	5000	Soul_Of_Swordman	5000
+	ROP	Soul_Of_Swordman	5000	Carnium	5000	Soul_Of_Swordman	5000
+	ROPEU	Soul_Of_Swordman	5000	Soul_Of_Swordman	5000	Soul_Of_Swordman	5000
+	
+V_B_SHECIL	kRO	Soul_Of_Archer	5000	Soul_Of_Archer	5000	Soul_Of_Archer	5000
+	ROP	Soul_Of_Archer	5000	Carnium	5000	Soul_Of_Archer	5000
+	ROPEU	Soul_Of_Archer	5000	Soul_Of_Archer	5000	Soul_Of_Archer	5000
+	
+V_B_TRENTINI	kRO	Soul_Of_Archer	5000	Soul_Of_Archer	5000	Soul_Of_Archer	5000
+	ROP	Soul_Of_Archer	5000	Carnium	500	Soul_Of_Archer	5000
+	ROPEU	Soul_Of_Archer	5000	Soul_Of_Archer	500	Soul_Of_Archer	5000
+	
+XM_CELINE_KIMI	kRO	Magic_Card_Album	5000	Magic_Card_Album	5000	Magic_Card_Album	5000
+	ROP	Magic_Card_Album	5000	Carnium	5000	Magic_Card_Album	5000
+	ROPEU	Magic_Card_Album	5000	Magic_Card_Album	5000	Magic_Card_Album	5000
+	

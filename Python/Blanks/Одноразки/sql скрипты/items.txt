@@ -1,0 +1,8 @@
+E_NYAIL_PIG	Yggdrasil_Seed_Box_	20	G0	Seed_Of_Yggdrasil_	100	G0	White_Slim_Potion_Box_	80	G0	Sesame_Pastry_B	150	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0
+E_SEA_WORMS	Flat_Round_Stone	5000	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0
+E_SMALL_SWIRL	Thin_Noodle	10000	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0
+E_MD_NYAILO	High_Weapon_Box	250	G0	Tamato_Noodle	1000	G0	E_Watermelon_Pudding	5000	G0	Old_Card_Album	400	G0	Scuba_Mask_K	30	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0
+E_MD_S_TREASURE_BOX	Light_Granule	1500	G0	Elder_Branch	250	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0
+E_MD_B_TREASURE_BOX	Light_Granule	2000	G0	Runstone_Quality	1000	G0	Runstone_Ancient	700	G0	Elder_Branch	400	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0
+E_MD_BOX_PUPPET	Hard_Skin	3000	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0
+E_MD_DEPRESS_SOUL	Crystalized_Teardrop	500	G0	Tiny_Waterbottle	800	G0	Waterdrop_Brooch	50	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0	Apple	0	G0

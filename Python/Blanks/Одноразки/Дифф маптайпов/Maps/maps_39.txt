@@ -1,0 +1,6 @@
+------------[new]-------------
+egef_swn1.gat
+egef_swn2.gat
+-----------[old]------------
+egef_swn1.gat
+egef_swn2.gat

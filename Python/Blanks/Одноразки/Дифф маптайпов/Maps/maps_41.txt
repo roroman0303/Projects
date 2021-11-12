@@ -1,0 +1,7 @@
+------------[new]-------------
+aru_gld.gat
+sch_gld.gat
+alde_gld.gat
+pay_gld.gat
+prt_gld.gat
+-----------[old]------------

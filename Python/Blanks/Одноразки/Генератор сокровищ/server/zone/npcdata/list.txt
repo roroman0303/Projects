@@ -1,0 +1,4 @@
+./npcdata/event/2021_pirates_mob.sc
+./npcdata/event/2021_pirates_quest_eu.sc
+./npcdata/event/2021_pirates_treasure_eu.sc
+./npcdata/event/2021_pirates_trader_eu.sc

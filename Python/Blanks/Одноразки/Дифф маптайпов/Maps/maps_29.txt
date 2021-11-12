@@ -1,0 +1,8 @@
+------------[new]-------------
+pvp_n_room.gat
+pvp_novice.gat
+auction_03.gat
+-----------[old]------------
+pvp_n_room.gat
+pvp_novice.gat
+auction_03.gat

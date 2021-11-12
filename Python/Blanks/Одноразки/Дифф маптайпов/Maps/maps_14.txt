@@ -1,0 +1,16 @@
+------------[new]-------------
+pvp_n_1-2.gat
+pvp_n_8-1.gat
+pvp_n_8-2.gat
+pvp_n_8-3.gat
+turbo_e_16.gat
+turbo_e_4.gat
+turbo_e_8.gat
+-----------[old]------------
+pvp_n_1-2.gat
+pvp_n_8-1.gat
+pvp_n_8-2.gat
+pvp_n_8-3.gat
+turbo_e_16.gat
+turbo_e_4.gat
+turbo_e_8.gat

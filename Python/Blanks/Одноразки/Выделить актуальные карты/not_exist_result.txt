@@ -1,0 +1,1012 @@
+
+
+8	siege_test.gat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17	poring_w02.gat
+
+
+
+
+
+
+
+
+
+
+10	egef_fild02.gat
+28	egeffen.gat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31	iz_dun00t.gat
+31	iz_dun01t.gat
+31	iz_dun02t.gat
+31	iz_dun03t.gat
+31	iz_dun04t.gat
+
+
+
+11	summon_01.gat
+11	summon_02.gat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0	guild_vs01.gat
+0	guild_vs02.gat
+0	guild_vs03.gat
+0	guild_vs04.gat
+
+
+
+
+
+
+4	job3_rune03.gat
+6	pvp_2vs2.gat
+6	pvp_n_1-1.gat
+
+6	pvp_n_1-3.gat
+6	pvp_n_1-4.gat
+6	pvp_n_1-5.gat
+6	pvp_n_2-1.gat
+6	pvp_n_2-2.gat
+6	pvp_n_2-3.gat
+6	pvp_n_2-4.gat
+6	pvp_n_2-5.gat
+6	pvp_n_3-1.gat
+6	pvp_n_3-2.gat
+6	pvp_n_3-3.gat
+6	pvp_n_3-4.gat
+6	pvp_n_3-5.gat
+6	pvp_n_4-1.gat
+6	pvp_n_4-2.gat
+6	pvp_n_4-3.gat
+6	pvp_n_4-4.gat
+6	pvp_n_4-5.gat
+6	pvp_n_5-1.gat
+6	pvp_n_5-2.gat
+6	pvp_n_5-3.gat
+6	pvp_n_5-4.gat
+6	pvp_n_5-5.gat
+6	pvp_n_6-1.gat
+6	pvp_n_6-2.gat
+6	pvp_n_6-3.gat
+6	pvp_n_6-4.gat
+6	pvp_n_6-5.gat
+6	pvp_n_7-1.gat
+6	pvp_n_7-2.gat
+6	pvp_n_7-3.gat
+
+6	pvp_n_7-5.gat
+
+
+
+
+
+
+
+6	pvp_y_1-1.gat
+6	pvp_y_1-3.gat
+6	pvp_y_1-4.gat
+6	pvp_y_1-5.gat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3	tur_dun06.gat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1	arena_room.gat
+
+
+
+
+
+
+
+
+16	evt_xmas.gat
+4	force_1-1.gat
+4	force_1-2.gat
+4	force_1-3.gat
+4	force_2-1.gat
+4	force_2-2.gat
+4	force_2-3.gat
+4	force_3-1.gat
+4	force_3-2.gat
+4	force_3-3.gat
+4	force_4-1.gat
+4	force_5-1.gat
+4	guild_room.gat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4	ordeal_1-2.gat
+4	ordeal_1-3.gat
+4	ordeal_1-4.gat
+4	ordeal_2-1.gat
+4	ordeal_2-2.gat
+4	ordeal_2-3.gat
+4	ordeal_2-4.gat
+4	ordeal_3-1.gat
+4	ordeal_3-2.gat
+4	ordeal_3-3.gat
+4	ordeal_3-4.gat
+4	ordeal_a00.gat
+4	ordeal_a02.gat
+
+1	que_house_s.gat
+13	quiz_00.gat
+13	quiz_01.gat
+13	quiz_02.gat
+13	quiz_test.gat
+
+
+
+
+
+
+
+
+
+4	alb_ship2.gat
+
+
+
+4	evt_hello.gat
+13	evt_zombie.gat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27	payon_mem.gat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6	pvp_y_1-2.gat
+4	job3_arch03.gat
+
+
+
+
+
+
+
+
+
+
+
+4	que_lhz.gat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4	que_moon.gat
+
+
+
+
+
+
+
+
+
+
+4	evt_mobroom.gat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4	ethana_boss.gat
+3	c_tower2_.gat
+4	eairplane1.gat
+3	c_tower3_.gat
+2	moro_vol.gat
+3	moro_cav.gat
+
+4	ordeal_1-1.gat
+28	egld2_aldl.gat
+28	emal_dun01h.gat
+3	ver_eju.gat
+3	ver_tunn.gat
+3	verus03.gat
+1	verus04.gat
+1	paramk.gat
+1	prt_cas.gat
+1	prt_cas_q.gat
+3	prt_prison.gat
+3	prt_q.gat
+1	prt_lib.gat
+1	prt_lib_q.gat
+1	prt_pri00.gat
+1	har_in01.gat
+
+2	harboro2.gat
+3	rockmi1.gat
+4	rockmi2.gat
+2	rockrdg1.gat
+28	nydevent_01.gat
+4	eque_qsch01.gat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1	ekh_vila.gat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4	que_god01t.gat
+
+4	questsign.gat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2	rockrdg2.gat
+13	lhz_d_n2.gat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1	auction_01.gat
+1	auction_02.gat
+28	ayothaya_e.gat
+
+
+
+
+
+
+
+
+1	dew_in01.gat
+
+
+
+
+
+
+
+
+
+
+
+28	louyang_e.gat
+
+
+
+
+3	ma_scene01.gat
+4	ma_zif01.gat
+4	ma_zif02.gat
+4	ma_zif03.gat
+4	ma_zif04.gat
+4	ma_zif05.gat
+4	ma_zif06.gat
+4	ma_zif07.gat
+4	ma_zif08.gat
+4	ma_zif09.gat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0	morocc_mem.gat
+
+
+
+
+
+4	que_job02.gat
+4	que_job03.gat
+4	que_moc_16.gat
+
+0	thief_1-1.gat
+0	thief_2-1.gat
+0	thief_3-1.gat
+4	z_agit.gat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1	mosk_fild01.gat
+
+1	mosk_in.gat
+4	mosk_que.gat
+4	mosk_ship.gat
+
+
+
+15	sec_pri.gat
+
+
+
+
+
+
+
+
+
+8	nguild_alde.gat
+8	nguild_pay.gat
+
+
+
+
+
+
+
+
+
+
+
+
+
+4	arug_que01.gat
+
+
+
+
+
+
+
+8	nguild_gef.gat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4	n_castle.gat
+8	nguild_prt.gat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4	schg_que01.gat
+
+1	ecl_hub01.gat
+1	ecl_in01.gat
+1	ecl_in02.gat
+1	ecl_in03.gat
+1	ecl_in04.gat
+
+
+
+
+
+4	que_avan01.gat
+
+
+1	iz_ac01.gat
+1	iz_ac01_a.gat
+1	iz_ac01_b.gat
+1	iz_ac01_c.gat
+1	iz_ac01_d.gat
+1	iz_ac02.gat
+1	iz_ac02_a.gat
+1	iz_ac02_b.gat
+1	iz_ac02_c.gat
+1	iz_ac02_d.gat
+24	iz_int.gat
+24	iz_int01.gat
+24	iz_int02.gat
+24	iz_int03.gat
+24	iz_int04.gat
+1	iz_ng01.gat
+
+0	izlude_b.gat
+0	izlude_c.gat
+0	izlude_d.gat
+
+
+
+
+
+
+4	ejob_star.gat
+
+
+25	te_prtcas01.gat
+25	te_prtcas02.gat
+25	te_prtcas03.gat
+25	te_prtcas04.gat
+25	te_prtcas05.gat
+
+
+25	te_aldecas1.gat
+25	te_aldecas2.gat
+25	te_aldecas3.gat
+25	te_aldecas4.gat
+25	te_aldecas5.gat
+
+
+
+28	eabyss_03m.gat
+28	ebeach_dunm.gat
+28	ebif_fld01m.gat
+28	edic_dun01m.gat
+28	edic_dun02m.gat
+28	edic_fld01m.gat
+28	egef_dun03m.gat
+28	egl_chyardm.gat
+28	ehu_fild01m.gat
+28	eice_dun03m.gat
+28	ekh_dun02m.gat
+28	elhz_dun03m.gat
+28	elhz_fld01m.gat
+28	emag_dun02m.gat
+28	eman_fld03m.gat
+28	emoc_pryd6m.gat
+28	eorcsdun01m.gat
+28	epay_dun00m.gat
+28	era_fild01m.gat
+28	era_fild12m.gat
+28	era_san04m.gat
+28	espl_fild1m.gat
+28	etha_t04m.gat
+28	ethor_v02m.gat
+28	etur_dun03m.gat
+28	eyno_fld7m.gat
+28	eabyss_01h.gat
+28	eabyss_03h.gat
+28	ebeach_dunh.gat
+28	ebif_fld01h.gat
+28	edic_dun01h.gat
+28	edic_dun02h.gat
+28	edic_fld01h.gat
+28	egef_dun03h.gat
+28	egl_chyardh.gat
+28	ehu_fild01h.gat
+28	eice_dun03h.gat
+28	ekh_dun02h.gat
+28	elhz_dun03h.gat
+28	elhz_fld01h.gat
+28	emag_dun02h.gat
+28	eman_fld03h.gat
+28	emoc_pryd6h.gat
+28	eorcsdun01h.gat
+28	epay_dun00h.gat
+28	era_fild01h.gat
+28	era_fild12h.gat
+28	era_san04h.gat
+28	espl_fild1h.gat
+28	etha_t04h.gat
+28	ethor_v02h.gat
+28	etur_dun03h.gat
+28	eyno_fld7h.gat
+28	eabyss_01l.gat
+28	eabyss_03l.gat
+28	ebeach_dunl.gat
+28	ebif_fld01l.gat
+28	edic_dun01l.gat
+28	edic_dun02l.gat
+28	edic_fld01l.gat
+28	egef_dun03l.gat
+28	egl_chyardl.gat
+28	ehu_fild01l.gat
+28	eice_dun03l.gat
+28	ekh_dun02l.gat
+28	elhz_dun03l.gat
+28	elhz_fld01l.gat
+28	emag_dun02l.gat
+28	eman_fld03l.gat
+28	emoc_pryd6l.gat
+28	eorcsdun01l.gat
+28	epay_dun00l.gat
+28	era_fild01l.gat
+28	era_fild12l.gat
+28	era_san04l.gat
+28	espl_fild1l.gat
+28	etha_t04l.gat
+28	ethor_v02l.gat
+28	etur_dun03l.gat
+28	eyno_fld7l.gat
+
+4	e_niflheim.gat
+4	que_swat.gat
+1	rebel_in.gat
+3	slabw01.gat
+35	enew_1-3.gat
+3	pay_d03_i.gat
+4	hal_in18.gat
+3	gef_d01_i.gat
+4	vday19bs.gat
+4	vday19dd.gat
+4	vday19ms.gat
+4	vday19ms_f.gat
+19	bat_b03.gat
+3	ice_d03_i.gat
+4	aq19_ar.gat
+4	aq19_pr.gat
+4	aq19_sa.gat
+4	det_dun01.gat
+1	dali02.gat
+17	etur_dun01.gat
+28	emos_dun02h.gat
+4	edic_dun01.gat
+4	lasa_dun_q.gat
+21	lhz_dun_n.gat
+36	fool19.gat
+19	bat_a03.gat
+
+0	air_evt.gat
+0	gl_ch_evt.gat
+0	iz_d03_evt.gat
+0	lhz_cu_evt.gat
+0	new_1-1_evt.gat
+0	new_1-2_evt.gat
+0	pay_d00_evt.gat
+0	prt_cas_evt.gat
+0	prt_ch_evt.gat
+0	prt_evt.gat
+0	prt_in_evt.gat
+
+3	un_bunker.gat
+4	un_myst.gat
+3	verus01.gat
+3	verus02.gat
+3	lasa_dun01.gat
+3	lasa_dun02.gat
+3	lasa_dun03.gat
+0	lasa_fild01.gat
+0	lasa_fild02.gat
+1	lasa_in01.gat
+1	conch_in.gat
+
+4	hugel_us.gat
+30	epay_fild07.gat

@@ -1,0 +1,308 @@
+C1_AGAV	Swift Agav	Агав Прыти	AGAV	Агав 
+C1_ALNOLDI	Swift Rafflesia Alnoldi	Раффлесия Арнольди Прыти	ALNOLDI	Раффлесия Арнольди 
+C1_ANGRA_MANTIS	Swift Angra Mantis	Злой богомол Прыти	ANGRA_MANTIS	Злой богомол 
+C1_ANTIQUE_BOOK	Swift Antique book	Древняя книга Прыти	ANTIQUE_BOOK	Древняя книга 
+C1_ARGIOPE	Swift Argiope	Аргиопа Прыти	ARGIOPE	Аргиопа 
+C1_BANSHEE	Swift Banshee	Банши Прыти	BANSHEE	Банши 
+C1_BLOOD_BUTTERFLY	Swift Blood Butterfly	Кровавая бабочка Прыти	BLOOD_BUTTERFLY	Кровавая бабочка 
+C1_CARAMEL	Swift Caramel	Карамель Прыти	CARAMEL	Карамель 
+C1_CENTIPEDE	Swift Centipede	Многоножка Прыти	CENTIPEDE	Многоножка 
+C1_COCO	Swift Coco	Коко Прыти	COCO	Коко 
+C1_CREAMY	Swift Creamy	Крими Прыти	CREAMY	Крими 
+C1_DEATHWORD	Swift Deathword	Слово смерти Прыти	DEATHWORD	Слово смерти 
+C1_DIMIK_1	Swift Dimik	Димик Прыти	DIMIK_1	Димик 
+C1_DRAGON_TAIL	Swift Dragon tail	Стрекоза Прыти	DRAGON_TAIL	Стрекоза 
+C1_DRYAD	Swift Dryad	Дриада Прыти	DRYAD	Дриада 
+C1_ELDER_WILOW	Swift Elder Willow	Древний пенек Прыти	ELDER_WILOW	Древний пенек 
+C1_FAKE_ANGEL	Swift Fake Angel	Фальшивый ангел Прыти	FAKE_ANGEL	Фальшивый ангел 
+C1_FUR_SEAL	Swift Seal	Морской котик Прыти	FUR_SEAL	Морской котик 
+C1_GEOGRAPHER	Swift Geographer	Географ Прыти	GEOGRAPHER	Географ 
+C1_GLD_DARK_SHADOW	Swift Dark shadow	Черная тень Прыти	GLD_DARK_SHADOW	Черная тень 
+C1_GOBLIN_1	Swift Goblin	Гоблин с кинжалом Прыти	GOBLIN_1	Гоблин с кинжалом 
+C1_GREATEST_GENERAL	Swift Greatest General	Великий генерал Прыти	GREATEST_GENERAL	Великий генерал 
+C1_HILL_WIND_1	Swift Hill Wind	Степной ветер Прыти	HILL_WIND_1	Степной ветер 
+C1_HORN_SCARABA	Swift Horn Scaraba	Однорогий скараб Прыти	HORN_SCARABA	Однорогий скараб 
+C1_ICE_TITAN	Swift Ice Titan	Ледяной титан Прыти	ICE_TITAN	Ледяной титан 
+C1_KARAKASA	Swift Karakasa	Каракаса Прыти	KARAKASA	Каракаса 
+C1_KOBOLD_ARCHER	Swift Kobold Archer	Кобольд-лучник Прыти	KOBOLD_ARCHER	Кобольд-лучник 
+C1_LES	Swift Les	Мавка Прыти	LES	Мавка 
+C1_LOLI_RURI	Swift Loli Ruri	Лоли Рури Прыти	LOLI_RURI	Лоли Рури 
+C1_MAGMARING	Swift Magmaring	Магмарин Прыти	MAGMARING	Магмарин 
+C1_MANTIS	Swift Mantis	Богомол Прыти	MANTIS	Богомол 
+C1_MEDUSA	Swift Medusa	Медуза Прыти	MEDUSA	Медуза 
+C1_METALLER	Swift Metaller	Металлист Прыти	METALLER	Металлист 
+C1_MINOROUS	Swift Minorous	Минотавр Прыти	MINOROUS	Минотавр 
+C1_MOROCC_1	Swift Morroc	Слуга Моррока Прыти	MOROCC_1	Слуга Моррока 
+C1_MUMMY	Swift Mummy	Мумия Прыти	MUMMY	Мумия 
+C1_NG_WANDER_MAN	Swift Wanderer	Странник Прыти	NG_WANDER_MAN	Странник 
+C1_NOVUS	Swift Novus	Новус Прыти	NOVUS	Новус 
+C1_ORC_SKELETON	Стремительный орк-скелет 	Орк-скелет Прыти	ORC_SKELETON	Орк-скелет 
+C1_PASANA	Swift Pasana	Пасана Прыти	PASANA	Пасана 
+C1_PETIT	Swift Petit	Земляной дракончик Прыти	PETIT	Земляной дракончик 
+C1_PIRANHA	Swift Piranha	Пиранья Прыти	PIRANHA	Пиранья 
+C1_POISON_TOAD	Swift Poison Toad	Ядовитая жаба Прыти	POISON_TOAD	Ядовитая жаба 
+C1_PORING	Swift Poring	Поринг Прыти	PORING	Поринг 
+C1_RAFFLESIA	Swift Rafflesia	Раффлесия Прыти	RAFFLESIA	Раффлесия 
+C1_RAYDRIC	Swift Raydric	Райдрик Прыти	RAYDRIC	Райдрик 
+C1_RETRIBUTION	Swift Retribution	Ангел возмездия Прыти	RETRIBUTION	Ангел возмездия 
+C1_RIDEWORD	Swift Rideword	Злое слово Прыти	RIDEWORD	Злое слово 
+C1_SAILOR_SKELETON	Swift Sailor Skull	Sailor SkullПрыти	SAILOR_SKELETON	Sailor Skull
+C1_SAVAGE_BABE	Swift Savage Bebe	Поросенок Прыти	SAVAGE_BABE	Поросенок 
+C1_SHELLFISH	Swift Shellfish	Раковина Прыти	SHELLFISH	Раковина 
+C1_SIROMA	Swift Siroma	Сирома Прыти	SIROMA	Сирома 
+C1_SLEEPER	Swift Sleeper	Соня Прыти	SLEEPER	Соня 
+C1_SOHEE	Swift Sohee	Сохи Прыти	SOHEE	Сохи 
+C1_SPORE	Swift Spore	Спора Прыти	SPORE	Спора 
+C1_STEM_WORM	Swift Stem Worm	Стебельный жук Прыти	STEM_WORM	Стебельный жук 
+C1_TEDDY_BEAR	Swift Teddy Bear	Плюшевый мишка Прыти	TEDDY_BEAR	Плюшевый мишка 
+C1_VANBERK	Swift Vanberk	Ванберк Прыти	VANBERK	Ванберк 
+C1_VIOLY	Swift Violy	Скрипачка Прыти	VIOLY	Скрипачка 
+C1_WOLF	Swift Wolf	Волк Прыти	WOLF	Волк 
+C1_YOYO	Swift Yoyo	Йойо Прыти	YOYO	Йойо 
+C1_ZOMBIE_SLAUGHTER	Swift Zombie Slaughter	Зомби-убийца Прыти	ZOMBIE_SLAUGHTER	Зомби-убийца 
+C2_ACIDUS_	Solid Blue Acidus	Ацидус Мощи	ACIDUS_	Ацидус 
+C2_ALLIGATOR	Solid Alligator	Аллигатор Мощи	ALLIGATOR	Аллигатор 
+C2_ANDRE	Solid Andre	Андре Мощи	ANDRE	Андре 
+C2_ANTIQUE_BOOK	Solid Antique book	Древняя книга Мощи	ANTIQUE_BOOK	Древняя книга 
+C2_ARCLOUSE	Solid Arclouse	Арклоуз Мощи	ARCLOUSE	Арклоуз 
+C2_BANASPATY	Solid Banaspaty	Банасфати Мощи	BANASPATY	Банасфати 
+C2_BUNGISNGIS	Solid Nungisngis	Бангис Мощи	BUNGISNGIS	Бангис 
+C2_CENERE	Solid Cenere	Сенере Мощи	CENERE	Сенере 
+C2_COCO	Solid Coco	Коко Мощи	COCO	Коко 
+C2_CORNUTUS	Solid Cornutus	Корнатус Мощи	CORNUTUS	Корнатус 
+C2_DEATHWORD	Solid Deathword	Слово смерти Мощи	DEATHWORD	Слово смерти 
+C2_DEVIRUCHI	Solid Deviruchi	Девиручи Мощи	DEVIRUCHI	Девиручи 
+C2_DRACO	Solid Draco	Драко Мощи	DRACO	Драко 
+C2_DROSERA	Solid Drosera	Росянка Мощи	DROSERA	Росянка 
+C2_ELDER_WILOW	Solid Elder Wilow	Древний пенек Мощи	ELDER_WILOW	Древний пенек 
+C2_FABRE	Solid Fabre	Фабре Мощи	FABRE	Фабре 
+C2_FREEZER	Solid Freezer	Ледяная черепаха Мощи	FREEZER	Ледяная черепаха 
+C2_GEOGRAPHER	Solid Geographer	Географ Мощи	GEOGRAPHER	Географ 
+C2_GLD_DARK_SHADOW	Solid Dark shadow	Черная тень Мощи	GLD_DARK_SHADOW	Черная тень 
+C2_GOAT	Solid Goat	Баран Мощи	GOAT	Баран 
+C2_GRAND_PECO	Solid Grand Peco	Королевский пеко Мощи	GRAND_PECO	Королевский пеко 
+C2_HIGH_ORC	Solid High Orc	Высший орк Мощи	HIGH_ORC	Высший орк 
+C2_HORN	Solid Horn	Жук-рогач Мощи	HORN	Жук-рогач 
+C2_IARA	Solid Iara	Иара Мощи	IARA	Иара 
+C2_ISIS	Solid Isis	Изис Мощи	ISIS	Изис 
+C2_KOBOLD_1	Solid Axe Kobold	Кобольд Мощи	KOBOLD_1	Кобольд 
+C2_LEIB_OLMAI	Solid Leib Olmai	Лейб Олмай Мощи	LEIB_OLMAI	Лейб Олмай 
+C2_LIVE_PEACH_TREE	Solid Live Peach Tree	Живое персиковое дерево Мощи	LIVE_PEACH_TREE	Живое персиковое дерево 
+C2_LUNATIC	Solid Lunatic	Лунатик Мощи	LUNATIC	Лунатик 
+C2_MANDRAGORA	Solid Mandragora	Мандрагора Мощи	MANDRAGORA	Мандрагора 
+C2_MARTIN	Solid Martin	Мартин Мощи	MARTIN	Мартин 
+C2_METALING	Solid Metaling	Металлинг Мощи	METALING	Металлинг 
+C2_MINERAL	Solid Mineral	Минерал Мощи	MINERAL	Минерал 
+C2_MOLE	Solid Holden	Крот Мощи	MOLE	Крот 
+C2_MUMMY	Solid Mummy	Мумия Мощи	MUMMY	Мумия 
+C2_NEPENTHES	Solid Nepenthes	Непентес Мощи	NEPENTHES	Непентес 
+C2_NOVUS	Solid Novus	Новус Мощи	NOVUS	Новус 
+C2_ORC_LADY	Несокрушимая леди орк 	Леди-орк Мощи	ORC_LADY	Леди-орк 
+C2_PARASITE	Solid Parasite	Паразит Мощи	PARASITE	Паразит 
+C2_PETIT	Solid Petit	Земляной дракончик Мощи	PETIT	Земляной дракончик 
+C2_PINGUICULA_D	Solid Pinguicula Dark	Темная пингвикула Мощи	PINGUICULA_D	Темная пингвикула 
+C2_POISON_SPORE	Solid Poison Spore	Ядовитая спора Мощи	POISON_SPORE	Ядовитая спора 
+C2_PORCELLIO	Solid Porcellio	Мокрица Мощи	PORCELLIO	Мокрица 
+C2_RAYDRIC	Solid Raydric	Райдрик Мощи	RAYDRIC	Райдрик 
+C2_REQUIEM	Solid Requiem	Реквием Мощи	REQUIEM	Реквием 
+C2_RIDEWORD	Solid Rideword	Злое слово Мощи	RIDEWORD	Злое слово 
+C2_ROWEEN	Solid Roween	Ровин Мощи	ROWEEN	Ровин 
+C2_SAVAGE	Solid Savage	Кабан Мощи	SAVAGE	Кабан 
+C2_SHECIL	Solid Cecil Damon	Сесиль Дамон Мощи	SHECIL	Сесиль Дамон 
+C2_SIDE_WINDER	Solid Side Winder	Гадюка Мощи	SIDE_WINDER	Гадюка 
+C2_SKOGUL	Solid Skogul	Скегуль Мощи	SKOGUL	Скегуль 
+C2_SNOWIER	Solid Snowier	Снежный человек Мощи	SNOWIER	Снежный человек 
+C2_SOLIDER	Solid Solider	Защитник Мощи	SOLIDER	Защитник 
+C2_STEEL_CHONCHON	Solid Steel Chonchon	Стальной чончон Мощи	STEEL_CHONCHON	Стальной чончон 
+C2_TATACHO	Solid Tatacho	Татахо Мощи	TATACHO	Татахо 
+C2_THIEF_BUG	Solid Thiefbug	Жук-вор Мощи	THIEF_BUG	Жук-вор 
+C2_VADON	Solid Vadon	Вадон Мощи	VADON	Вадон 
+C2_VIOLY	Solid Violy	Скрипачка Мощи	VIOLY	Скрипачка 
+C2_WHISPER	Solid Whisper	Виспер Мощи	WHISPER	Виспер 
+C2_WIND_GHOST	Solid Wind Ghost	Дикое привидение Мощи	WIND_GHOST	Дикое привидение 
+C2_YOYO	Solid Yoyo	Йойо Мощи	YOYO	Йойо 
+C2_ZOMBIE_PRISONER	Solid Zombie Prisoner	Зомби-заключенный Мощи	ZOMBIE_PRISONER	Зомби-заключенный 
+C3_ACIDUS_	Blue Acidus Ringleader	Ацидус Власти	ACIDUS_	Ацидус 
+C3_ALIZA	Aliza Ringleader	Элиза Власти	ALIZA	Элиза 
+C3_ANCIENT_MIMIC	Ancient Mimic Ringleader	Древний мимик Власти	ANCIENT_MIMIC	Древний мимик 
+C3_ARCLOUSE	Arclouse Ringleader	Арклоуз Власти	ARCLOUSE	Арклоуз 
+C3_ASSULTER	Assaulter Ringleader	Штурмовик Власти	ASSULTER	Штурмовик 
+C3_BIGFOOT	Bigfoot Ringleader	Бигфут Власти	BIGFOOT	Бигфут 
+C3_BREEZE	Breeze Ringleader	Вихрь Власти	BREEZE	Вихрь 
+C3_CELIA	Celia Alde Ringleader	Силлия Альде Власти	CELIA	Силлия Альде 
+C3_CLOCK	Clock Ringleader	Маятник Власти	CLOCK	Маятник 
+C3_COOKIE	Cookie Ringleader	Гном Власти	COOKIE	Гном 
+C3_DEATHWORD	Deathword Ringleader	Слово смерти Власти	DEATHWORD	Слово смерти 
+C3_DESERT_WOLF_B	Desert Wolf Ringleader	Пустынный волчонок Власти	DESERT_WOLF_B	Пустынный волчонок 
+C3_DOLOMEDES	Dolomedes Ringleader	Доломедес Власти	DOLOMEDES	Доломедес 
+C3_DROPS	Drops Ringleader	Дропс Власти	DROPS	Дропс 
+C3_ECHIO	Echio Ringleader	Экьо Власти	ECHIO	Экьо 
+C3_FABRE	Fabre Ringleader	Фабре Власти	FABRE	Фабре 
+C3_FREEZER	Freezer Ringleader	Ледяная черепаха Власти	FREEZER	Ледяная черепаха 
+C3_GARGOYLE	Gargoyle	Ringleader	Горгулья Власти	GARGOYLE	Горгулья 
+C3_GIANT_HONET	Giant Hornet Ringleader	Гигантская пчела Власти	GIANT_HONET	Гигантская пчела 
+C3_GOAT	Goat Ringleader	Баран Власти	GOAT	Баран 
+C3_GRAND_PECO	Chief Grand Peco	Королевский пеко Власти	GRAND_PECO	Королевский пеко 
+C3_HARPY	Harpy Ringleader	Гарпия Власти	HARPY	Гарпия 
+C3_HODREMLIN	Hodremlin Ringleader	Хогремлин Власти	HODREMLIN	Хогремлин 
+C3_HYEGUN	Chief Hyegun	Хай Ган Власти	HYEGUN	Хай Ган 
+C3_ISILLA	Isilla Ringleader	Изилла Власти	ISILLA	Изилла 
+C3_KNOCKER	Knocker Ringleader	Цверг Власти	KNOCKER	Цверг 
+C3_LEAF_CAT	Leaf Cat Ringleader	Кошка-листок Власти	LEAF_CAT	Кошка-листок 
+C3_LITTLE_PORING	Novice Poring Ringleader	Крошка-порингВласти	LITTLE_PORING	Крошка-поринг
+C3_LUNATIC	Lunatic Ringleader	Лунатик Власти	LUNATIC	Лунатик 
+C3_MANANANGGAL	Manananggal Ringleader	Манагал Власти	MANANANGGAL	Манагал 
+C3_MARIONETTE	Marionette	Ringleader	Марионетка Власти	MARIONETTE	Марионетка 
+C3_METALING	Metaling Ringleader	Металлинг Власти	METALING	Металлинг 
+C3_MIMING	Miming Ringleader	Мимин Власти	MIMING	Мимин 
+C3_MIYABI_NINGYO	Chief Miyabi Ningyo	Мияби Власти	MIYABI_NINGYO	Мияби 
+C3_MUKA	Muka Ringleader	Мука Власти	MUKA	Мука 
+C3_NECROMANCER	Necromancer Ringleader	Некромант Власти	NECROMANCER	Некромант 
+C3_NOVUS	Novus Ringleader	Новус Власти	NOVUS	Новус 
+C3_OBSERVATION	Dame of Sentinel Ringleader	Ангел-хранитель Власти	OBSERVATION	Ангел-хранитель 
+C3_OWL_DUKE	Owl Duke Ringleader	Герцог сов Власти	OWL_DUKE	Герцог сов 
+C3_PENOMENA	Penomena Ringleader	Пеномена Власти	PENOMENA	Пеномена 
+C3_PINGUICULA	Pinguicula Ringleader	Пингвикула Власти	PINGUICULA	Пингвикула 
+C3_PLASMA_Y	Plasma Ringleader	Плазма Власти	PLASMA_Y	Плазма 
+C3_POPORING	Poporing Ringleader	Попоринг Власти	POPORING	Попоринг 
+C3_RAWREL	Laurel Weinder Ringleader	Лорелл Вейндер Власти	RAWREL	Лорелл Вейндер 
+C3_REMOVAL	Remover Ringleader	Уничтожитель Власти	REMOVAL	Уничтожитель 
+C3_RICE_CAKE_BOY	Dumpling Child Ringleader	Рисовый мальчик Власти	RICE_CAKE_BOY	Рисовый мальчик 
+C3_RODA_FROG	Chief Roda Frog	Лягушка Рода Власти	RODA_FROG	Лягушка Рода 
+C3_SAVAGE	Chief Savage	Кабан Власти	SAVAGE	Кабан 
+C3_SEE_OTTER	See Otter Ringleader	Морская выдра Власти	SEE_OTTER	Морская выдра 
+C3_SIDE_WINDER	Side Winder Ringleader	Гадюка Власти	SIDE_WINDER	Гадюка 
+C3_SKELETON_GENERAL	Skeleton General Ringleader	Генерал скелетов Власти	SKELETON_GENERAL	Генерал скелетов 
+C3_SNAKE	Boa	Ringleader	Змея Власти	SNAKE	Змея 
+C3_SOLDIER_SKELETON	Chief Soldier Skeleton	Скелет-солдат Власти	SOLDIER_SKELETON	Скелет-солдат 
+C3_STAPO	Stapo Ringleader	Стапо Власти	STAPO	Стапо 
+C3_TAROU	Tarou Ringleader	Тароу Власти	TAROU	Тароу 
+C3_THIEF_BUG	Chief Thief Bug	Жук-вор Власти	THIEF_BUG	Жук-вор 
+C3_UNGOLIANT	Chief Ungoliant	Унголиант Власти	UNGOLIANT	Унголиант 
+C3_VENOMOUS	Venomous Ringleader	Ядовитый газ Власти	VENOMOUS	Ядовитый газ 
+C3_WEAK_SKELETON	Weak Skeleton Ringleader	GristleВласти	WEAK_SKELETON	Gristle
+C3_WILOW	Willow Ringleader	Пенек Власти	WILOW	Пенек 
+C3_WORM_TAIL	Wormtail Ringleader	Зеленый хвост Власти	WORM_TAIL	Зеленый хвост 
+C3_ZOMBIE_MASTER	Zombie Master Ringleader	Старший зомби Власти	ZOMBIE_MASTER	Старший зомби 
+C4_ALICEL	Furious Alicel	Алисель Ярости	ALICEL	Алисель 
+C4_ANACONDAQ	Furious Anacondaq	Анаконда Ярости	ANACONDAQ	Анаконда 
+C4_ANOLIAN	Furious Anolian	Анолиан Ярости	ANOLIAN	Анолиан 
+C4_APOCALIPS	Furious Apocalips	Апокалипсис Ярости	APOCALIPS	Апокалипсис 
+C4_ARGOS	Furious Argos	Аргос Ярости	ARGOS	Аргос 
+C4_BATHORY	Furious Bathory	Бафори Ярости	BATHORY	Бафори 
+C4_BREEZE	Furious Breeze	Вихрь Ярости	BREEZE	Вихрь 
+C4_CATERPILLAR	Furious Caterpillar	Гусеница Ярости	CATERPILLAR	Гусеница 
+C4_CLOCK	Furious Clock	Маятник Ярости	CLOCK	Маятник 
+C4_CONSTANT	Furious Constant	Константа Ярости	CONSTANT	Константа 
+C4_DARK_PRIEST	Furious Dark Priest	Темный священник Ярости	DARK_PRIEST	Темный священник 
+C4_DESERT_WOLF_B	Furious Desert Wolf	Пустынный волчонок Ярости	DESERT_WOLF_B	Пустынный волчонок 
+C4_DOKEBI	Furious Dokebi	Доккеби Ярости	DOKEBI	Доккеби 
+C4_DRILLER	Furious Driller	Сверло Ярости	DRILLER	Сверло 
+C4_DUSTINESS	Furious Dustiness	Мотылек Ярости	DUSTINESS	Мотылек 
+C4_EXPLOSION	Furious Explosion	Взрыв Ярости	EXPLOSION	Взрыв 
+C4_FERUS_	Furious Bewler	Феррус Ярости	FERUS_	Феррус 
+C4_GARGOYLE	Furious Gargoyle	Горгулья Ярости	GARGOYLE	Горгулья 
+C4_GHOUL	Furious Ghoul	Упырь Ярости	GHOUL	Упырь 
+C4_GLD_KOBOLD_2	Furious Dark Hammer Kobold	Темный кобольд Ярости	GLD_KOBOLD_2	Темный кобольд 
+C4_GOLEM	Furious Golem	Голем Ярости	GOLEM	Голем 
+C4_HARPY	Furious Harpy	Гарпия Ярости	HARPY	Гарпия 
+C4_HODE	Furious Hode	Хоуд Ярости	HODE	Хоуд 
+C4_HUNTER_FLY	Furious Hunter Fly	Муха-охотник Ярости	HUNTER_FLY	Муха-охотник 
+C4_INJUSTICE	Furious Injustice	Несправедливый Ярости	INJUSTICE	Несправедливый 
+C4_KIND_OF_BEETLE	Furious Beetle King	Королевский жук Ярости	KIND_OF_BEETLE	Королевский жук 
+C4_L_WHIKEBAIN	Furious Wickebine Tres	Разбойник Викебин Ярости	L_WHIKEBAIN	Разбойник Викебин 
+C4_LITTLE_FATUM	Furious Little Fatum	Малыш Фатум Ярости	LITTLE_FATUM	Малыш Фатум 
+C4_LUDE	Furious Lude	Глюк Ярости	LUDE	Глюк 
+C4_MAJORUROS	Furious Majorous	Маджорурос Ярости	MAJORUROS	Маджорурос 
+C4_MARIN	Furious Marin	Марин Ярости	MARIN	Марин 
+C4_MERMAN	Furious Merman	Водяной Ярости	MERMAN	Водяной 
+C4_MIMIC	Ужасный мимик 	Мимик Ярости	MIMIC	Мимик 
+C4_MINOROUS	Злой минотавр 	Минотавр Ярости	MINOROUS	Минотавр 
+C4_MOROCC_1	Furious Morroc	Слуга Моррока Ярости	MOROCC_1	Слуга Моррока 
+C4_MYSTCASE	Furious Mystcase	Подарок Ярости	MYSTCASE	Подарок 
+C4_NIGHTMARE_TERROR	Furious Nightmare	terror	Ужасный кошмар Ярости	NIGHTMARE_TERROR	Ужасный кошмар 
+C4_NOXIOUS	Furious Noxious	Красный газ Ярости	NOXIOUS	Красный газ 
+C4_ORK_WARRIOR	Яростный орк-воин 	Орк-воин Ярости	ORK_WARRIOR	Орк-воин 
+C4_PENOMENA	Furious Penomena	Пеномена Ярости	PENOMENA	Пеномена 
+C4_PICKY_	Furious Picky	Пикки-задира Ярости	PICKY_	Пикки-задира 
+C4_PLANKTON	Furious Plankton	Планктон Ярости	PLANKTON	Планктон 
+C4_POPORING	Furious Poporing	Попоринг Ярости	POPORING	Попоринг 
+C4_RAKE_SCARABA	Furious Rake Scaraba	Остророгий скараб Ярости	RAKE_SCARABA	Остророгий скараб 
+C4_RETRIBUTION	Furious Retribution	Ангел возмездия Ярости	RETRIBUTION	Ангел возмездия 
+C4_RODA_FROG	Furious Roda Frog	Лягушка Рода Ярости	RODA_FROG	Лягушка Рода 
+C4_SAND_MAN	Furious Sandman	Песочный человек Ярости	SAND_MAN	Песочный человек 
+C4_SEDORA	Furious Sedora	Сэдор Ярости	SEDORA	Сэдор 
+C4_SHINOBI	Furious	Shinobi	Шиноби Ярости	SHINOBI	Шиноби 
+C4_SKELETON_GENERAL	Furious Skeleton General	Генерал скелетов Ярости	SKELETON_GENERAL	Генерал скелетов 
+C4_SMOKIE	Furious Smokie	Смоки Ярости	SMOKIE	Смоки 
+C4_SOLDIER_SKELETON	Furious Soldier Skeleton	Скелет-солдат Ярости	SOLDIER_SKELETON	Скелет-солдат 
+C4_STALACTIC_GOLEM	Furious Stalactic Golem	Сталактитовый голем Ярости	STALACTIC_GOLEM	Сталактитовый голем 
+C4_TAMRUAN	Furious Tamruan	Тамруан Ярости	TAMRUAN	Тамруан 
+C4_THIEF_BUG	Furious Thiefbug	Жук-вор Ярости	THIEF_BUG	Жук-вор 
+C4_TOUCAN	Furious Toucan	Тукан Ярости	TOUCAN	Тукан 
+C4_VENATU_1	Furious Venatu	Венату Ярости	VENATU_1	Венату 
+C4_WANDER_MAN	Furious Wanderer	Странник Ярости	WANDER_MAN	Странник 
+C4_WILD_ROSE	Furious Wild Rose	Дикая кошка Ярости	WILD_ROSE	Дикая кошка 
+C4_WOOTAN_FIGHTER	Furious Wootan fighter	Вутан-воин Ярости	WOOTAN_FIGHTER	Вутан-воин 
+C4_ZOMBIE	Furious Zombie	Зомби Ярости	ZOMBIE	Зомби 
+C5_ALARM	Elusive Alarm	Будильник Жизни	ALARM	Будильник 
+C5_AMBERNITE	Elusive Ambernite	Улитка Жизни	AMBERNITE	Улитка 
+C5_ANGRA_MANTIS	Elusive Angra Mantis	Злой богомол Жизни	ANGRA_MANTIS	Злой богомол 
+C5_ANTLER_SCARABA	Elusive Antler scaraba	Оленерогий скараб Жизни	ANTLER_SCARABA	Оленерогий скараб 
+C5_ARGIOPE	Elusive Argiope	Аргиопа Жизни	ARGIOPE	Аргиопа 
+C5_BANSHEE_MASTER	Elusive Banshee Master	Банши-мастер Жизни	BANSHEE_MASTER	Банши-мастер 
+C5_BRADIUM_GOLEM	Elusive Bradium Golem	Брадиумовый голем Жизни	BRADIUM_GOLEM	Брадиумовый голем 
+C5_CARAT	Elusive Carat	Клоун Жизни	CARAT	Клоун 
+C5_CHONCHON	Elusive Chonchon	Чончон Жизни	CHONCHON	Чончон 
+C5_COMODO	Elusive Comodo	Комодо Жизни	COMODO	Комодо 
+C5_DANCING_DRAGON	Roaming Dancing Dragon	Танцующий дракон Жизни	DANCING_DRAGON	Танцующий дракон 
+C5_DENIRO	Roaming Deniro	Дэниро Жизни	DENIRO	Дэниро 
+C5_DISGUISE	Elusive Disguise	Лицемер Жизни	DISGUISE	Лицемер 
+C5_DRAINLIAR	Elusive Drainliar	Драйнляр Жизни	DRAINLIAR	Драйнляр 
+C5_EVIL_DRUID	Roaming Evil Druid	Злой друид Жизни	EVIL_DRUID	Злой друид 
+C5_FARMILIAR	Elusive Farmiliar	Фамильяр Жизни	FARMILIAR	Фамильяр 
+C5_GALION	Elusive Galion	Галион Жизни	GALION	Галион 
+C5_GHOUL	Elusive Ghoul	Упырь Жизни	GHOUL	Упырь 
+C5_GLD_KOBOLD_2	Elusive Dark Hammer Kobold	Темный кобольд Жизни	GLD_KOBOLD_2	Темный кобольд 
+C5_GOBLIN_1	Elusive Goblin	Гоблин с кинжалом Жизни	GOBLIN_1	Гоблин с кинжалом 
+C5_GREEN_IGUANA	Elusive Grove	Игуана Жизни	GREEN_IGUANA	Игуана 
+C5_HILL_WIND_1	Elusive Hill Wind	Степной ветер Жизни	HILL_WIND_1	Степной ветер 
+C5_HORNET	Roaming Hornet	Пчела Жизни	HORNET	Пчела 
+C5_INCREASE_SOIL	Elusive Mi Gao	Волшебная глина Жизни	INCREASE_SOIL	Волшебная глина 
+C5_KASA	Elusive Kasa	Казза Жизни	KASA	Казза 
+C5_L_EREMES	Elusive	Eremes	Убийца Эремес Жизни	L_EREMES	Убийца Эремес 
+C5_LI_ME_MANG_RYANG	Elusive Jing Guai	Переодетый тигр Жизни	LI_ME_MANG_RYANG	Переодетый тигр 
+C5_LUCIOLA_VESPA	Elusive Luciola Vespa	Лусиола Веспа Жизни	LUCIOLA_VESPA	Лусиола Веспа 
+C5_MAGNOLIA	Elusive Magnolia	Магнолия Жизни	MAGNOLIA	Магнолия 
+C5_MARDUK	Elusive Marduk	Мардук Жизни	MARDUK	Мардук 
+C5_MENBLATT	Elusive Menblatt	Менблат Жизни	MENBLATT	Менблат 
+C5_MIMIC	Elusive Mimic	Мимик Жизни	MIMIC	Мимик 
+C5_MINOROUS	Elusive Minorous	Минотавр Жизни	MINOROUS	Минотавр 
+C5_MOROCC_1	Elusive Morroc	Слуга Моррока Жизни	MOROCC_1	Слуга Моррока 
+C5_MUSCIPULAR	Elusive Muscipular	Мухоловка Жизни	MUSCIPULAR	Мухоловка 
+C5_NG_WRAITH_DEAD	Elusive Wraith Dead	Разгневанный гробовщик Жизни	NG_WRAITH_DEAD	Разгневанный гробовщик 
+C5_NOVUS	Elusive Novus	Новус Жизни	NOVUS	Новус 
+C5_ORC_ZOMBIE	Неуловимый орк-зомби 	Орк-зомби Жизни	ORC_ZOMBIE	Орк-зомби 
+C5_PECOPECO	Elusive Pecopeco	Пекопеко Жизни	PECOPECO	Пекопеко 
+C5_PHEN	Elusive Phen	Фен Жизни	PHEN	Фен 
+C5_PITMAN	Elusive Pitman	Углекоп Жизни	PITMAN	Углекоп 
+C5_POPORING	Elusive Poporing	Попоринг Жизни	POPORING	Попоринг 
+C5_RAGGLER	Roaming Raggler	Рагглер Жизни	RAGGLER	Рагглер 
+C5_RED_ERUMA	Elusive	Red	Eruma	Красная эрума Жизни	RED_ERUMA	Красная эрума 
+C5_RETRIBUTION	Elusive Retribution	Ангел возмездия Жизни	RETRIBUTION	Ангел возмездия 
+C5_ROCKER	Roaming Rocker	Рокер Жизни	ROCKER	Рокер 
+C5_SALAMANDER	Elusive Salamander	Саламандра Жизни	SALAMANDER	Саламандра 
+C5_SCORPION	Roaming Scorpion	Скорпион Жизни	SCORPION	Скорпион 
+C5_SHELTER	Elusive Mistress of Shelter	Ангел защиты Жизни	SHELTER	Ангел защиты 
+C5_SKEL_WORKER	Elusive Skel Worker	Скелет-рабочий Жизни	SKEL_WORKER	Скелет-рабочий 
+C5_SLEEPER	Elusive Sleeper	Соня Жизни	SLEEPER	Соня 
+C5_SOLACE	Elusive Solace	Ангел покоя Жизни	SOLACE	Ангел покоя 
+C5_STAINER	Elusive Stainer	Божья коровка Жизни	STAINER	Божья коровка 
+C5_STING	Elusive Sting	Стинг Жизни	STING	Стинг 
+C5_THARA_FROG	Elusive Thara Frog	Лягушка Тара Жизни	THARA_FROG	Лягушка Тара 
+C5_TIYANAK	Elusive Tiyanak	Тиюнак Жизни	TIYANAK	Тиюнак 
+C5_VAVAYAGA	Elusive Vavayaga	Баба-Яга Жизни	VAVAYAGA	Баба-Яга 
+C5_VIOLY	Elusive Violy	Скрипачка Жизни	VIOLY	Скрипачка 
+C5_WICKED_NYMPH	Elusive Evil Nymph	Порочная нимфа Жизни	WICKED_NYMPH	Порочная нимфа 
+C5_WOOD_GOBLIN	Roaming Wood Goblin	Леший Жизни	WOOD_GOBLIN	Леший 
+C5_ZAKUDAM	Elusive Zakudam	Джакудам Жизни	ZAKUDAM	Джакудам 

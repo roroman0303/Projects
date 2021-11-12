@@ -1,0 +1,7 @@
+Добавлены
+guild_vs1.gat
+guild_vs2.gat
+guild_vs3.gat
+guild_vs4.gat
+guild_vs5.gat
+Удалены
