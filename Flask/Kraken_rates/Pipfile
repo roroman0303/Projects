@@ -7,6 +7,9 @@ name = "pypi"
 flask-sqlalchemy = "*"
 flask = "*"
 flask-restplus = "*"
+sqlalchemy-utils = "*"
+sqlalchemy = "*"
+requests = "*"
 
 [dev-packages]
 
