@@ -1,4 +1,5 @@
 Python/Telegram bot/telegram_bot_keys.txt
 **.idea/
 **.vscode/
-Flask/Kraken_rates/__pycache__/
+Flask/Kraken_burse/__pycache__/
+Flask/Wildberries_sku/__pycache__/
