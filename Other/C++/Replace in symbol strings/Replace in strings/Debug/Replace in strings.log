@@ -1,4 +1,0 @@
-﻿  Replace in strings.cpp
-E:\Projects\C++\Replace in strings\Replace in strings\Replace in strings.cpp(37,58): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
-E:\Projects\C++\Replace in strings\Replace in strings\Replace in strings.cpp(39,31): warning C4018: <: несоответствие типов со знаком и без знака
-  Replace in strings.vcxproj -> E:\Projects\C++\Replace in strings\Replace in strings\Debug\Replace in strings.exe

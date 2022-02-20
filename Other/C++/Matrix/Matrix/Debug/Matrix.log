@@ -1,4 +1,0 @@
-﻿  Matrix.cpp
-E:\Projects\C++\Matrix\Matrix\Matrix.cpp(125,44): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-E:\Projects\C++\Matrix\Matrix\Matrix.cpp(130,37): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-  Matrix.vcxproj -> E:\Projects\C++\Matrix\Matrix\Debug\Matrix.exe

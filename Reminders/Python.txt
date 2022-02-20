@@ -22,6 +22,7 @@ string.endswith('end.') - заканчивается ли строка на 'end
 
 string.format('1', '2') - подстановка
 'Int is %d, String is %s, Float is %f' % (2, 'Roman', 2.12) - подстановка
+f"Current value is {value}" - подстановка
 
 # ===== [Регулярные выражения] =====
 
