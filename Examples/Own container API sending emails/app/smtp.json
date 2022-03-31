@@ -1,0 +1,14 @@
+{
+	"google.com": {
+		"host": "smtp.gmail.com: 587",
+		"ssl": false
+	},
+	"yandex.ru": {
+		"host": "smtp.yandex.ru: 465",
+		"ssl": true
+	},
+	"mail.ru": {
+		"host": "smtp.mail.ru: 465",
+		"ssl": true
+	}
+}
