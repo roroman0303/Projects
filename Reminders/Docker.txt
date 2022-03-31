@@ -21,7 +21,7 @@ docker kill name_of_image - принудительно остановить ко
 
 # другое
 docker ls - посмотреть запущенные контейнеры
-docker logs name_of_image - смотреть логи конетйнера
+docker logs name_of_image - смотреть логи контейнера
 	-follow - логи работающего контейнера
 
 # команды DOCKER
