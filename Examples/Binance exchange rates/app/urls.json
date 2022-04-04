@@ -1,0 +1,9 @@
+{
+	"google_sheets": {
+		"chains": "1jFV0dXT_2uyyUTWqvFrYwSklg9IB8Xa_zhw3Khirf9k"
+	},
+	"binance": {
+		"tickers" : "https://api.binance.com/api/v3/ticker/price",
+		"websocket_tickers": "wss://stream.binance.com:9443/ws/!ticker@arr"
+	}
+}
