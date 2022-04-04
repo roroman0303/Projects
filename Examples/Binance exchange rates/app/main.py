@@ -4,7 +4,7 @@ import files
 import websocket_messaging
 import json
 import google_work
-from datetime import datetime
+from datetime import datetime, timedelta
 
 conf_path = 'app/conf.json'
 urls_path = 'app/urls.json'
@@ -100,7 +100,7 @@ def create_chains(price_dict, chain_length):
 
 
 def create_top_chains_table(chain_dict):
-    table = [[str(datetime.now().strftime("%H:%M:%S")),
+    table = [[str((datetime.now()+timedelta(hours=3)).strftime("%H:%M:%S")),
               ' -> '.join(chain),
               ' -> '.join(result['rates']),
               (result['count']/base_value_count)-1]
