@@ -100,7 +100,7 @@ def create_chains(price_dict, chain_length):
 
 
 def create_top_chains_table(chain_dict):
-    table = [[str((datetime.now()+timedelta(hours=3)).strftime("%H:%M:%S")),
+    table = [[str(datetime.now().strftime("%H:%M:%S")),
               ' -> '.join(chain),
               ' -> '.join(result['rates']),
               (result['count']/base_value_count)-1]
@@ -128,7 +128,6 @@ def marginality(message):
             worksheet = google_work.open_sheet(google_sheets_url, google_sheet_name)
             google_work.insert_table(worksheet, chain_table)
         except gspread.exceptions.APIError: pass
-        chain_dict = dict()
         chain_collector_counter = 0
 
 
