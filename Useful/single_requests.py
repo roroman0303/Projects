@@ -1,6 +1,6 @@
 import requests
 
-session = None
+session = requests.Session()
 
 
 def init_connection(new=True):
@@ -22,10 +22,12 @@ def fetch(http_method, content_type='text', url=None, body=None,
                 response = session.get(url=url, headers=headers, params=params, timeout=timeout)
             elif http_method.lower() == 'post':
                 response = session.post(url=url, headers=headers, params=params, json=body, timeout=timeout)
+            else: raise KeyError("Please, check HTTP method.")
             if 300 > response.status_code >= 200:
                 if content_type.lower() == 'json': result = response.json()
                 else: result = response.text
                 return result
+            else: print(response.text)
         except (requests.exceptions.RequestException, requests.exceptions.BaseHTTPError):
             init_connection(new=True)
             timeout += 5

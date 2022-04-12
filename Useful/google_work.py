@@ -1,4 +1,5 @@
 from gspread import authorize
+from gspread.worksheet import Worksheet
 from google.auth.exceptions import GoogleAuthError
 from oauth2client.service_account import ServiceAccountCredentials
 # EMAIL: roman-wb@roman-wb.iam.gserviceaccount.com
@@ -7,12 +8,14 @@ _connection = None
 _last_google_sheet = None
 _last_google_sheet_key = None
 
+
+credentials_path = 'credentials.json'
 def initialize_connection(new=False):
     global _connection
     if _connection is not None and new == False: return _connection
     else:
         scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
-        credentials = ServiceAccountCredentials.from_json_keyfile_name('keys/credentials.json', scope)
+        credentials = ServiceAccountCredentials.from_json_keyfile_name(credentials_path, scope)
         _connection = authorize(credentials)
         return _connection
 
@@ -60,14 +63,26 @@ def clear(worksheet, ranges=None):
     else: worksheet.clear()
 
 
-def insert_table(worksheet, table_rows, replace=False,
-                 start_column=None, start_row=None, start_cell=None):
+def generate_column(column_number):
+    alphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'G', 'K', 'L', 'M',
+                'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+    if column_number <= len(alphabet): return alphabet[column_number - 1]
+    else:
+        first_letter = alphabet[(column_number // len(alphabet)) - 1]
+        second_letter = alphabet[(column_number % len(alphabet)) - 1]
+        return first_letter+second_letter
+
+
+def insert_table(worksheet: Worksheet, table_rows, replace=False,
+                 start_column: int = 1, start_row: int = 1, start_cell: str = 'A1'):
     if replace: clear(worksheet)
-    if start_column is not None: worksheet.update(start_column+'1', table_rows)
-    elif start_row is not None: worksheet.update('A'+str(start_row), table_rows)
-    elif start_cell is not None: worksheet.update(start_cell, table_rows)
-    else: worksheet.update(table_rows)
-    print(f"Таблица \"{worksheet.title}\" успешно обновлена.")
+    if start_cell != 'A1': worksheet.update(start_cell, table_rows)
+    else:
+        column_1 = generate_column(start_column)
+        row_1 = start_row
+        column_2 = generate_column(start_column+max([len(row) for row in table_rows]))
+        row_2 = start_row + len(table_rows)
+        worksheet.update(f"{column_1}{row_1}:{column_2}{row_2}", table_rows)
 
 
 def update_notes(worksheet, start_row, start_column, note_rows):
