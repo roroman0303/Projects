@@ -44,11 +44,10 @@ while True:
                 new_column.append([article_price_dict[article]])
             except KeyError: new_column.append([''])
 
-        google_work.insert_table(worksheet, new_column, start_column=int(column_to))
-        worksheet.update(f'D2:D{2+len(new_column)}', new_column)
+        google_work.insert_table(worksheet, new_column, start_column=int(column_to), start_row=2)
 
-        print(f'Успешно обновлено! Ожидание {(datetime.now()+timedelta(minutes=1)).time()}...')
-        time.sleep(60)
+        print(f'Успешно обновлено! Ожидание {(datetime.now()+timedelta(hours=1)).time()}...')
+        time.sleep(3600)
     except:
         while True:
             try:
