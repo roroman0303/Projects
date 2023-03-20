@@ -1,0 +1,11 @@
+{
+	"values": ["USDT", "XRP", "LTC", "BTC", "ETH", "BNB", "DOGE", "NEO", "RUB", "TRY"],
+	"base_value": "USDT",
+	"base_value_count": 1000,
+	"commission": 0.1,
+	"max_chain_length": 3,
+	"interval": 1,
+	
+	"google_sheets_url": "1jFV0dXT_2uyyUTWqvFrYwSklg9IB8Xa_zhw3Khirf9k",
+	"google_sheet_name": "Chains"
+}
